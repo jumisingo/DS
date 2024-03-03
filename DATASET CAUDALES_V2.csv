@@ -1,0 +1,2021 @@
+﻿ID,Punto de Medición,Estado,MES,Año,hora,Caudal acumulado anterior                       (m3 ) ,Caudal acumulado                   (m3 ),Lectura registro                ( L/s),"M1, M2, M3, M4, M5, MA"
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,4,2022,AM,"579,299.89","529,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,4,2022,AM,"762,749.71","799,625.58",16.78, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,4,2022,, FOP ,,, MA 
+,Iris Hernández,,4,2022,AM,"43,463.99","57,817.00",5.38, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,4,2022,,,,, M2  
+BM09,Botho Steinvorth,,4,2022,AM,"1,811,840.10","1,820,912.09",, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,4,2022,AM,"1,791,455.20","1,817,626.00",11.77, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,4,2022,AM,"4,723,443.20","4,855,063.10",62.09, MA 
+,29 Catarata,,4,2022,AM,,"13,131.00",11.16,
+BM16,Arrieta,,4,2022,AM,"3,321,771.70","3,385,386.60",23.24, MA 
+,La Anexa,Datos Irregulares,4,2022,AM,"77,057.15","91,823.00",8.08, M1 
+BM03,Carlos Steinvorth,,4,2022,AM,"3,201,825.90","3,201,826.70",15.84, MA 
+,29 A,,4,2022,AM,,"19,003.00",12.76, M1 
+BM14,Sacramento,,4,2022,AM,"2,973,072.00","3,016,250.00",14.15, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,4,2022,PM,"188,169.00","190,728.00",1.09, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,4,2022,PM,"9,520,115.00","9,608,044.00",52.9, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,4,2022,AM,"5,848,592.00","5,897,974.00",18.5, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,4,2022,AM,"7,775,857.00","7,866,463.00",29.99, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,4,2022,AM,"6,521,154.10","6,617,626.00",28.9, MA 
+BM10,"El Higueron 8""  (6"")",,4,2022,AM,"5,885,828.00","5,990,736.00",32.94, MA 
+BM11,"LA Gemela #1 (6"")",,4,2022,AM,"3,855,008.00","3,875,617.00",7.58, MA 
+BM12,"LA Gemela #2  (6"")",,4,2022,AM,"5,602,795.00","5,655,542.00",19.11, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),,4,2022,PM,,,65.35, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,4,2022,AM,"697,832.00","753,500.00",21.55, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,4,2022,AM,"961,056.00","1,061,731.00",42.25, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,4,2022,AM,"1,131,053.00","1,209,439.00",28.28, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,4,2022,AM,"973,510.00","1,046,439.00",27.76, MA 
+,Mata Plátano,,4,2022,PM,,"8,597.04",12.2,
+SPM01,"Pozo Miraflores        ( 8"" )",,5,2022,AM,"2,849,243.00","2,973,699.00",48, MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,5,2022,AM,"4,636,327.00","4,761,983.00",49.4, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,5,2022,AM,"4,292.00","4,292.00", FOP , MA 
+HM07,Pozo Real Santamaría,,5,2022,AM,"15,822,589.00","16,006,492.00",73.89, MA 
+HM17,"Pozo Trebol (8"")",,5,2022,AM,"3,315,973.00","3,468,237.00",68.4, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,5,2022,AM,"715,256.12","752,434.73",19, MA 
+HM12,"Pozo Granada ( 10"" )",,5,2022,AM,"3,472,475.00","3,561,170.00",34.5, MA 
+HM21,"Pozo Aurora II  ( 4"" )",,5,2022,AM,"154,816.00","156,460.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",,5,2022,AM,"135,775.73","135,775.73", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,5,2022,AM,"182,527.27","301,004.63",48.45, MA 
+HM22,Medidor para venta de agua Malinches,,5,2022,AM,930.67,960.67, FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",Macromedidor en mal estado,5,2022,AM,"2,997,530.00",, FOP , M2 
+HM06,"Pozo San Vicente        ( 10"" )",,5,2022,AM,"7,258,852.00","7,384,403.00",52.7, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,5,2022,AM,"5,155,273.00","5,277,803.00",48.5, MA 
+HM19,"Pozo Boruca (8"")",,5,2022,AM,"4,713,216.60","36,755.04",23.47, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,5,2022,AM,"1,110,415.00","1,170,505.50",29.23, MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",,5,2022,AM,"278,952.00","302,493.00", FOP , MA 
+SRM37,Pozo Los Altos II ,,5,2022,AM,"1,699,644.70","1,753,953.60",29.11, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,5,2022,AM,"434,406.00","443,321.00", FOP , MA 
+SRM26,Pozo Joya 1,,5,2022,AM,"486,464.89","503,616.47", FOP , MA 
+SRM33,Pozo Joya 2,,5,2022,AM,"3,251,345.20","3,311,807.10", FOP , MA 
+HM13,"Pozo Joya 3 (8"")",,5,2022,AM,"2,249,439.00","2,333,977.00",35.1, MA 
+SRM30,"Pozo Santiago ( 8"" )",,5,2022,AM,"1,446,091.00","1,517,858.00",29.8, MA 
+SRM25,"Pozo Burial       ( 6"" )",,5,2022,AM,"1,473,354.00","1,527,325.00", FOP , MA 
+SRM12,"Pozo Highland Ranch (3"")",,5,2022,AM,"591,305.00","597,744.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,,5,2022,AM,"1,614,486.74","1,624,457.40", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,5,2022,AM,"1,112,167.00","1,153,937.00", FOP , MA 
+SIM12,"Mata Maiz Llegando al Tanque 4""",,5,2022,AM,"550,117.00","580,836.00",9.1, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,5,2022,AM,"846,811.00","867,496.00",6.8, MA 
+SIM14,"Limpieza Tanque Victoria 8""",Datos Irregulares,5,2022,AM,"19,829.00","19,829.00",, MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,5,2022,AM,"1,294,948.00","1,344,247.00",15, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,5,2022,AM,"822,358.29","823,384.52", FOP , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,5,2022,AM,"17,733.17","17,944.57", FOP , MA 
+PEND,"Victoria Saliendo 6""",,5,2022,AM,"1,443,231.00","1,483,910.00", FOP , MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,5,2022,AM,"251,807.00","256,427.00",, MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,5,2022,AM,"441,081.80","453,844.13",8.49, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,5,2022,AM,"431,940.71","443,793.11",14.09, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,5,2022,AM,"165,155.00","172,434.00",3.71, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,5,2022,AM,"3,823.00","13,883.00",3.51, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Estación Fuera de Operación Definitiva,5,2022,,"70,139.00",,, MA 
+SRM51,Breña Mora Entrada Planta,,5,2022,AM,"1,264,006.30","1,306,458.06",16, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,5,2022,AM,"1,107,451.70","1,144,498.30",, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,5,2022,AM,"70,139.00","85,820.00",14.57, MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Macromedidor en mal estado,5,2022,AM,"13,386.00","13,386.00",, MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,5,2022,AM,"20,430.00","21,069.00",5.1, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,5,2022,AM,"2,262,314.00","10,798.00",10.98, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,5,2022,AM,"1,182,015.00","1,243,436.00",22.64, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,5,2022,AM,"1,365,317.00","1,395,798.00",15.66, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,5,2022,AM,"1,035,431.00","1,058,230.00",12.02, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,5,2022,AM,"3,329,987.00","3,407,159.00",41.66, MA 
+SIM17,Cementerio  Bunt Planet,Problema de energización,5,2022,AM,"774,361.51","789,819.43",8.1, MA 
+SIM18,Mas x Menos Bunt Planet,Punto Sin Macromedidor,5,2022,AM,"1,179,649.60","1,207,406.20",14.59, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,5,2022,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,5,2022,AM,"465,603.00","495,694.00",12.01, MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,5,2022,AM,"2,086,570.00","2,154,075.00",26.5, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,5,2022,AM,"1,266,563.00","1,313,061.00",20.61, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,5,2022,AM,"27,315.00","57,991.00",14.56, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,5,2022,AM,"1,794,541.30","1,915,174.00",53.51, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Macromedidor en mal estado,5,2022,AM,"12,869,878.00",,, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,5,2022,AM,"9,580,350.00","9,713,804.00",52.16, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,5,2022,AM,"529,299.89",,, MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,5,2022,AM,"799,625.58","832,165.51",16.1, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",,5,2022,AM,,,, MA 
+,Iris Hernández,,5,2022,,"57,817.00","94,408.00",18.46, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,5,2022,,,,, M2  
+BM09,Botho Steinvorth,,5,2022,PM,"2,820,912.09","2,872,877.70",93.26, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,5,2022,PM,"1,817,626.00","1,846,252.00",11.38, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",Macromedidor en mal estado,5,2022,PM,"4,855,063.10","4,855,063.10",65.56, MA 
+,29 Catarata,,5,2022,PM,"13,131.00","41,547.00",18.69,
+BM16,Arrieta,,5,2022,PM,"3,385,386.60","3,459,177.40",30.87, MA 
+,La Anexa,Datos Irregulares,5,2022,PM,"91,823.00","101,147.00",, M1 
+BM03,Carlos Steinvorth,,5,2022,PM,"3,201,826.70","3,226,963.30",24.13, MA 
+,29 A,Datos Irregulares,5,2022,PM,"19,003.00",,, M1 
+BM14,Sacramento,,5,2022,PM,"3,016,250.00","3,068,050.00",28.97, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,5,2022,PM,"190,728.00","192,737.00",0.67, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,5,2022,PM,"9,608,044.00","9,747,511.00",125.77, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,5,2022,AM,"5,897,974.00","5,944,536.00",24.03, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,5,2022,AM,"7,866,463.00","7,946,942.00",20.14, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,5,2022,AM,"6,617,626.00","6,811,148.00",122.6, MA 
+BM10,"El Higueron 8""  (6"")",,5,2022,AM,"5,990,736.00","6,086,121.00",40.87, MA 
+BM11,"LA Gemela #1 (6"")",,5,2022,AM,"3,875,617.00","3,895,228.00",8.2, MA 
+BM12,"LA Gemela #2  (6"")",,5,2022,AM,"5,655,542.00","5,705,988.00",23.71, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Macromedidor en mal estado,5,2022,,,,94.5, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,5,2022,AM,"753,500.00","806,892.00",20.46, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,5,2022,AM,"1,061,731.00","1,215,797.00",68.2, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,5,2022,AM,"1,209,439.00","1,283,123.00",27.73, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,5,2022,AM,"1,046,439.00","1,113,695.00",27.46, MA 
+,Mata Plátano,,5,2022,AM,"8,597.04","37,106.00",9.67,
+SPM01,"Pozo Miraflores        ( 8"" )",,6,2022,PM,"2,973,699.00","2,999,805.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,6,2022,PM,"4,761,983.00","4,884,444.00",49.5, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,6,2022,PM,"4,292.00","4,293.00", FOP , MA 
+HM07,Pozo Real Santamaría,,6,2022,PM,"16,006,492.00","16,188,346.00",72.71, MA 
+HM17,"Pozo Trebol (8"")",,6,2022,PM,"3,468,237.00","3,641,865.00",68.5, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,6,2022,PM,"752,434.73","787,954.21", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,6,2022,PM,"3,561,170.00","3,646,535.00",34, MA 
+HM21,"Pozo Aurora II  ( 4"" )",,6,2022,PM,"156,460.00","156,663.30", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",,6,2022,PM,"135,775.73","135,775.73", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,6,2022,PM,"301,004.63","415,930.45",49.06, MA 
+HM22,Medidor para venta de agua Malinches,,6,2022,PM,960.67,960.67, FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",Macromedidor en mal estado,6,2022,PM,,"140,467.00",81.49, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,6,2022,PM,"7,384,403.00","7,514,750.00",52.86, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,6,2022,AM,"5,277,803.00","5,397,256.00",47.5, MA 
+HM19,"Pozo Boruca (8"")",,6,2022,AM,"36,755.04","95,408.60",23.52, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,6,2022,AM,"1,170,505.50","1,171,998.00", FOP , MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",,6,2022,AM,"302,493.00","302,506.00", FOP , MA 
+SRM37,Pozo Los Altos II ,,6,2022,AM,"1,753,953.60","1,765,537.30", FOP , MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,6,2022,AM,"443,321.00","443,365.00", FOP , MA 
+SRM26,Pozo Joya 1,,6,2022,AM,"503,616.47","504,250.92", FOP , MA 
+SRM33,Pozo Joya 2,,6,2022,AM,"3,311,807.10","3,315,386.90", FOP , MA 
+HM13,"Pozo Joya 3 (8"")",,6,2022,PM,"2,333,977.00","2,348,345.00", FOP , MA 
+SRM30,"Pozo Santiago ( 8"" )",,6,2022,AM,"1,517,858.00","1,535,442.00", FOP , MA 
+SRM25,"Pozo Burial       ( 6"" )",,6,2022,AM,"1,527,325.00","1,540,507.00", FOP , MA 
+SRM12,"Pozo Highland Ranch (3"")",,6,2022,AM,"597,744.00","607,532.00",30.55, MA 
+SIM04,Pozo Santa Cruz I        ,,6,2022,AM,"1,624,457.40","1,631,622.00", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",Macromedidor en mal estado,6,2022,AM,"1,153,937.00",, FOP , MA 
+SIM12,"Mata Maiz Llegando al Tanque 4""",,6,2022,AM,"580,836.00","611,471.00",12.78, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,6,2022,AM,"867,496.00","888,364.00",8.43, MA 
+SIM14,"Limpieza Tanque Victoria 8""",Datos Irregulares,6,2022,AM,"19,829.00",,, MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,6,2022,,"1,344,247.00",,, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,6,2022,AM,"823,384.52",,, MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,6,2022,AM,"17,944.57","18,157.91",0.16, MA 
+PEND,"Victoria Saliendo 6""",,6,2022,AM,"1,483,910.00","1,522,589.00",18.9, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,6,2022,AM,"256,427.00","260,076.00",, MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,6,2022,AM,"453,844.13","464,033.90",, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,6,2022,AM,"443,793.11","453,303.18", -   , MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,6,2022,AM,"172,434.00","183,648.00",6.46, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,6,2022,AM,"13,883.00","23,750.00",2.77, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Estación Fuera de Operación Definitiva,6,2022,,,,, MA 
+SRM51,Breña Mora Entrada Planta,,6,2022,AM,"1,306,458.06","1,347,430.30",16.5, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,6,2022,AM,"1,144,498.30","1,176,661.30",19.3, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,6,2022,AM,"85,820.00","96,808.00",16.83, MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Macromedidor en mal estado,6,2022,AM,"13,386.00","13,386.00",, MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,6,2022,AM,"21,069.00","21,688.00",5.35, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,6,2022,AM,"10,798.00","36,996.00",7.89, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,6,2022,AM,"1,243,436.00","1,294,169.00",18.58, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,6,2022,AM,"1,395,798.00","1,423,655.00",16.24, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,6,2022,AM,"1,058,230.00","1,080,106.00",12.6, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,6,2022,AM,"3,407,159.00","3,480,027.00",41.35, MA 
+SIM17,Cementerio  Bunt Planet,Problema de energización,6,2022,AM,"789,819.43","803,966.64",7.39, MA 
+SIM18,Mas x Menos Bunt Planet,Punto Sin Macromedidor,6,2022,AM,"1,207,406.20","1,232,859.30",13.36, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,6,2022,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,6,2022,AM,"495,694.00","518,901.00",, MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,6,2022,AM,"2,154,075.00","2,220,143.00",27.43, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,6,2022,AM,"1,313,061.00","1,364,177.00",19.51, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,6,2022,AM,"57,991.00","89,943.00",16.7, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,6,2022,AM,"1,915,174.00","2,073,058.00",62.2, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Macromedidor en mal estado,6,2022,AM,,,, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Macromedidor en mal estado,6,2022,AM,"9,713,804.00","9,938,459.00",104.34, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,6,2022,AM,,"579,299.89",, MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,6,2022,AM,"832,165.51","861,960.74",14.68, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,6,2022,,,,, MA 
+,Iris Hernández,,6,2022,AM,"94,408.00","160,309.00",15.95, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,6,2022,,,,, M2  
+BM09,Botho Steinvorth,,6,2022,AM,"2,872,877.70","2,977,055.50",35.7, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,6,2022,AM,"1,846,252.00","1,877,750.00",17.54, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",Macromedidor en mal estado,6,2022,AM,"4,855,063.10","5,123,958.90",93.93, MA 
+,29 Catarata,,6,2022,AM,"41,547.00","88,880.00",17.12,
+BM16,Arrieta,,6,2022,AM,"3,459,177.40","3,548,002.70",36.15, MA 
+,La Anexa,Datos Irregulares,6,2022,AM,"101,147.00","109,722.00",0.71, M1 
+BM03,Carlos Steinvorth,,6,2022,AM,"3,226,963.30","3,316,547.50",30.31, MA 
+,29 A,Datos Irregulares,6,2022,AM,,"93,025.00",, M1 
+BM14,Sacramento,,6,2022,AM,"3,068,050.00","3,139,688.00",29.21, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,6,2022,AM,"192,737.00","194,817.00",0.8, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,6,2022,AM,"9,747,511.00","10,105,372.00",138.03, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,6,2022,AM,"5,944,536.00","6,001,549.00",16.51, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,6,2022,AM,"7,946,942.00","7,973,372.00",10.3, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,6,2022,AM,"6,811,148.00","7,158,595.00",143.4, MA 
+BM10,"El Higueron 8""  (6"")",,6,2022,AM,"6,086,121.00","6,225,710.00",70.09, MA 
+BM11,"LA Gemela #1 (6"")",,6,2022,AM,"3,895,228.00","3,917,322.00",8.53, MA 
+BM12,"LA Gemela #2  (6"")",,6,2022,AM,"5,705,988.00","5,830,948.00",128.89, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Macromedidor en mal estado,6,2022,AM,,,107.63, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",Problema de energización,6,2022,AM,"806,892.00",,21.4, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,6,2022,AM,"1,215,797.00","1,394,655.00",69.8, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,6,2022,AM,"1,283,123.00","1,346,196.00",25.37, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,6,2022,AM,"1,113,695.00","1,170,681.00",14.81, MA 
+,Mata Plátano,,6,2022,PM,"37,106.00","59,668.57",3.88,
+BM25,"Sacramento 3""",,6,2022,AM,"66,825.00","76,891.00",3.13,
+SPM01,"Pozo Miraflores        ( 8"" )",Pozo Apagado,7,2022,AM,"2,999,805.00","3,000,556.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,7,2022,PM,"4,884,444.00","5,019,713.00",50.4, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",Pozo Apagado,7,2022,PM,"4,293.00","4,293.00", FOP , MA 
+HM07,Pozo Real Santamaría,,7,2022,PM,"16,188,346.00","16,383,779.00",71.52, MA 
+HM17,"Pozo Trebol (8"")",,7,2022,PM,"3,641,865.00","3,834,004.00",68.5, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,7,2022,PM,"787,954.21","825,447.64",25.66, MA 
+HM12,"Pozo Granada ( 10"" )",,7,2022,PM,"3,646,535.00","3,739,501.00",36.4, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,7,2022,PM,"156,663.30","156,663.30", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,7,2022,PM,"135,775.73","135,775.73", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,7,2022,PM,"415,930.45","545,018.61",49.3, MA 
+HM22,Medidor para venta de agua Malinches,,7,2022,PM,960.67,960.67, FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",Macromedidor en mal estado,7,2022,PM,"140,467.00","365,488.22",81.4, M2 
+HM06,"Pozo San Vicente        ( 10"" )",Pozo Apagado,7,2022,AM,"7,514,750.00","7,651,318.00", FOP , MA 
+HM18,"Pozo Claretiano         ( 10"" )",,7,2022,PM,"5,397,256.00","5,529,638.00",48, MA 
+HM19,"Pozo Boruca (8"")",,7,2022,PM,"95,408.60","159,967.94",23.27, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",Pozo Apagado,7,2022,PM,"1,171,998.00","1,173,275.00", FOP , MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Pozo Apagado,7,2022,AM,"302,506.00","303,058.00", FOP , MA 
+SRM37,Pozo Los Altos II ,Pozo Apagado,7,2022,AM,"1,765,537.30","1,767,096.10", FOP , MA 
+SRM32,"Pozo Matasanos      ( 4"" )",Pozo Apagado,7,2022,AM,"443,365.00","443,894.00", FOP , MA 
+SRM26,Pozo Joya 1,Pozo Apagado,7,2022,AM,"504,250.92","504,358.43", FOP , MA 
+SRM33,Pozo Joya 2,Pozo Apagado,7,2022,AM,"3,315,386.90","3,315,609.50", FOP , MA 
+HM13,"Pozo Joya 3 (8"")",Pozo Apagado,7,2022,AM,"2,348,345.00","2,348,885.00", FOP , MA 
+SRM30,"Pozo Santiago ( 8"" )",Pozo Apagado,7,2022,AM,"1,535,442.00","1,542,826.00", FOP , MA 
+SRM25,"Pozo Burial       ( 6"" )",Pozo Apagado,7,2022,AM,"1,540,507.00","1,544,028.00", FOP , MA 
+SRM12,"Pozo Highland Ranch (3"")",Pozo Apagado,7,2022,AM,"607,532.00","612,217.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,Pozo Apagado,7,2022,AM,"1,631,622.00","1,643,329.00", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",Macromedidor en mal estado,7,2022,AM,,, FOP , MA 
+SIM12,"Mata Maiz Llegando al Tanque 4""",,7,2022,AM,"611,471.00","641,560.00",13.23, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,7,2022,AM,"888,364.00","910,866.00",8.25, MA 
+SIM14,"Limpieza Tanque Victoria 8""",,7,2022,,"19,829.00",,, MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,7,2022,,"1,344,247.00",,, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,7,2022,AM,"823,384.52","828,864.28", FOP , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,7,2022,AM,"18,157.91","18,458.76",0.1, MA 
+PEND,"Victoria Saliendo 6""",,7,2022,AM,"1,522,589.00","1,567,634.00",35.14, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,7,2022,AM,"260,076.00","265,057.00",, MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,7,2022,AM,"464,033.90","475,571.44",5.79, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,7,2022,AM,"453,303.18","463,420.95",8.38, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,7,2022,AM,"183,648.00","194,088.00",2.34, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,7,2022,AM,"23,750.00","30,644.00",5.97, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Estación Fuera de Operación Definitiva,7,2022,,,,, MA 
+SRM51,Breña Mora Entrada Planta,,7,2022,AM,"1,347,430.30","1,389,453.60",16, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,7,2022,AM,"1,176,661.30","1,214,120.00",20, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,7,2022,AM,"96,808.00","111,184.00",22.63, MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Macromedidor en mal estado,7,2022,AM,"13,386.00","13,425.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,7,2022,AM,"21,688.00","22,314.00",0.93, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,7,2022,AM,"36,996.00","66,458.00",3.99, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,7,2022,AM,"1,294,169.00","1,348,776.00",14.4, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,7,2022,AM,"1,423,655.00","1,454,432.00",17.26, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,7,2022,AM,"1,080,106.00","1,103,768.00",14.34, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,7,2022,AM,"3,480,027.00","3,559,471.00",44.06, MA 
+SIM17,Cementerio  Bunt Planet,Problema de energización,7,2022,AM,"803,966.64","819,539.70",8.05, MA 
+SIM18,Mas x Menos Bunt Planet,Punto Sin Macromedidor,7,2022,AM,"1,232,859.30","1,261,224.20",14.18, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,7,2022,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,7,2022,AM,"518,901.00","543,963.00",10.57, MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,7,2022,AM,"2,220,143.00","2,295,085.00",27.7, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,7,2022,AM,"1,364,177.00","1,420,221.00",20.48, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,7,2022,AM,"89,943.00","128,911.00",15.53, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,7,2022,AM,"2,073,058.00","2,237,491.00",36.7, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Macromedidor en mal estado,7,2022,PM,,,, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Macromedidor en mal estado,7,2022,PM,"9,938,459.00","10,236,365.00",95.34, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,7,2022,PM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",Macromedidor en mal estado,7,2022,PM,"861,960.74","861,960.74", FOP , MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Macromedidor en mal estado,7,2022,PM,,,, MA 
+,Iris Hernández,,7,2022,AM,"160,309.00","235,662.00",17.7, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,7,2022,,,,, M2  
+BM09,Botho Steinvorth,,7,2022,AM,"2,977,055.50","3,082,340.50",37.89, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,7,2022,AM,"1,877,750.00","1,925,593.00",17.42, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",Datos Irregulares,7,2022,AM,"5,123,958.90","5,318,026.20",115.81, MA 
+,29 Catarata,,7,2022,AM,"88,880.00","137,217.00",18.14,
+BM16,Arrieta,,7,2022,AM,"3,548,002.70","3,646,466.00",35.76, MA 
+,La Anexa,,7,2022,AM,"109,722.00","122,346.00",1.76, M1 
+BM03,Carlos Steinvorth,,7,2022,AM,"3,316,547.50","3,420,040.50",34.44, MA 
+,29 A,Datos Irregulares,7,2022,AM,"93,025.00","93,025.00",17.68, M1 
+BM14,Sacramento,,7,2022,AM,"3,139,688.00","3,217,365.00",27.74, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,7,2022,AM,"194,817.00","197,255.00",1.51, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,7,2022,AM,"10,105,372.00","10,510,373.00",136.93, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,7,2022,AM,"6,001,549.00","6,060,355.00",21.29, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,7,2022,AM,"7,973,372.00","7,973,391.00",14.15, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,7,2022,AM,"7,158,595.00","7,551,921.00",122, MA 
+BM10,"El Higueron 8""  (6"")",,7,2022,AM,"6,225,710.00","6,418,299.00",35.04, MA 
+BM11,"LA Gemela #1 (6"")",,7,2022,AM,"3,917,322.00","3,938,743.00",7.06, MA 
+BM12,"LA Gemela #2  (6"")",,7,2022,AM,"5,830,948.00","6,022,436.00",59.55, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Macromedidor en mal estado,7,2022,PM,,,143.34, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",Problema de energización,7,2022,,"806,892.00",,, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,7,2022,AM,"1,394,655.00","1,597,306.00",71.8, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,7,2022,AM,"1,346,196.00","1,409,732.00",22.92, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,7,2022,AM,"1,170,681.00","1,228,298.00",22.36, MA 
+,Mata Plátano,,7,2022,AM,"59,668.57","79,987.59",4.05,
+BM25,"Sacramento 3""",,7,2022,AM,"76,891.00","85,429.00",2.25,
+SPM01,"Pozo Miraflores        ( 8"" )",Pozo Apagado,8,2022,PM,"3,000,556.00","3,003,537.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,8,2022,PM,"5,019,713.00","5,150,802.00",49.4, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",Pozo Apagado,8,2022,PM,"4,293.00","4,296.00", FOP , MA 
+HM07,Pozo Real Santamaría,,8,2022,PM,"16,383,779.00","16,569,135.00",70.72, MA 
+HM17,"Pozo Trebol (8"")",,8,2022,PM,"3,834,004.00","4,017,110.00",73.8, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,8,2022,PM,"825,447.64","863,127.05",25.69, MA 
+HM12,"Pozo Granada ( 10"" )",,8,2022,PM,"3,739,501.00","3,822,605.00",38.1, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,8,2022,PM,"156,663.30","156,767.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,8,2022,PM,"135,775.73","135,775.73", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,8,2022,PM,"545,018.61","655,260.00",49.05, MA 
+HM22,Medidor para venta de agua Malinches,,8,2022,PM,960.67,960.67, FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",Macromedidor en mal estado,8,2022,PM,"365,488.22","385,128.70",81.64, M2 
+HM06,"Pozo San Vicente        ( 10"" )",Pozo Apagado,8,2022,AM,"7,651,318.00","7,661,920.00",50.65, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,8,2022,PM,"5,529,638.00","5,659,022.00",49, MA 
+HM19,"Pozo Boruca (8"")",,8,2022,PM,"159,967.94","222,193.10",23.42, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",Pozo Apagado,8,2022,PM,"1,173,275.00","1,173,335.20", FOP , MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Pozo Apagado,8,2022,PM,"303,058.00","303,058.00", FOP , MA 
+SRM37,Pozo Los Altos II ,Pozo Apagado,8,2022,PM,"1,767,096.10","1,767,096.10", FOP , MA 
+SRM32,"Pozo Matasanos      ( 4"" )",Pozo Apagado,8,2022,AM,"443,894.00","443,894.00", FOP , MA 
+SRM26,Pozo Joya 1,Pozo Apagado,8,2022,PM,"504,358.43","504,358.43", FOP , MA 
+SRM33,Pozo Joya 2,Pozo Apagado,8,2022,PM,"3,315,609.50","3,315,609.50", FOP , MA 
+HM13,"Pozo Joya 3 (8"")",,8,2022,AM,"2,348,885.00","2,348,888.00", FOP , MA 
+SRM30,"Pozo Santiago ( 8"" )",Pozo Apagado,8,2022,AM,"1,542,826.00","1,550,564.00", FOP , MA 
+SRM25,"Pozo Burial       ( 6"" )",Pozo Apagado,8,2022,AM,"1,544,028.00","1,546,952.00", FOP , MA 
+SRM12,"Pozo Highland Ranch (3"")",Pozo Apagado,8,2022,AM,"612,217.00","617,388.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,Pozo Apagado,8,2022,AM,"1,643,329.00","1,647,543.90", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",Macromedidor en mal estado,8,2022,AM,,"2,687.95", FOP , MA 
+SIM12,"Mata Maiz Llegando al Tanque 4""",,8,2022,AM,"641,560.00","676,191.00",12.65, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,8,2022,AM,"910,866.00","932,848.00",8.26, MA 
+SIM14,"Limpieza Tanque Victoria 8""",,8,2022,AM,"19,829.00","19,829.00", FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,8,2022,AM,"1,393,931.00","1,475,218.00",29.16, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,8,2022,AM,"828,864.28","828,949.00", FOP , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,8,2022,AM,"18,458.76","18,648.64", FOP , MA 
+PEND,"Victoria Saliendo 6""",,8,2022,AM,"1,567,634.00","1,625,669.00",33.56, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,8,2022,AM,"265,057.00","268,077.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,8,2022,AM,"475,571.44","488,157.00",9.09, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,8,2022,AM,"463,420.95","474,948.00",8.53, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,8,2022,AM,"194,088.00","211,430.00",14.09, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,8,2022,AM,"30,644.00","39,693.00",2.94, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Estación Fuera de Operación Definitiva,8,2022,,,,, MA 
+SRM51,Breña Mora Entrada Planta,,8,2022,AM,"1,389,453.60","1,429,459.80",14, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,8,2022,AM,"1,214,120.00","1,247,137.10",22.04, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,8,2022,AM,"111,184.00","122,883.00",11.77, MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Macromedidor en mal estado,8,2022,AM,"13,425.00","13,560.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,8,2022,AM,"22,314.00","23,001.40",0.49, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,8,2022,AM,"66,458.00","101,609.00",11.21, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,8,2022,AM,"1,348,776.00","1,397,380.00",15.58, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,8,2022,,"1,454,432.00",,, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,8,2022,AM,"1,103,768.00","1,126,834.00",11.91, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,8,2022,AM,"3,559,471.00","3,637,429.00",40.86, MA 
+SIM17,Cementerio  Bunt Planet,Problema de energización,8,2022,AM,"819,539.70","835,831.00",8.28, MA 
+SIM18,Mas x Menos Bunt Planet,Punto Sin Macromedidor,8,2022,AM,"1,261,224.20","1,290,564.70",15.63, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,8,2022,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,8,2022,AM,"543,963.00","570,247.00",9.93, MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,8,2022,AM,"2,295,085.00","2,366,541.00",29.29, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,8,2022,AM,"1,420,221.00","1,473,360.00",20.36, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,8,2022,AM,"128,911.00","171,314.00",17.41, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,8,2022,PM,"2,237,491.00","2,400,039.00",62.78, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Macromedidor en mal estado,8,2022,AM,,"6,617.00",91.31, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Macromedidor en mal estado,8,2022,AM,"10,236,365.00","10,509,924.00",97.84, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,8,2022,AM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",Macromedidor en mal estado,8,2022,AM,,, FOP , MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Macromedidor en mal estado,8,2022,,,,, MA 
+,Iris Hernández,,8,2022,AM,"235,662.00","294,761.00",19.6, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,8,2022,,,,, M2  
+BM09,Botho Steinvorth,,8,2022,AM,"3,082,340.50","3,154,959.60",27.31, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,8,2022,AM,"1,925,593.00","1,972,115.00",17.64, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",Datos Irregulares,8,2022,AM,"5,318,026.20","5,446,620.00",90.04, MA 
+,29 Catarata,,8,2022,AM,"137,217.00","184,455.00",17.5,
+BM16,Arrieta,,8,2022,AM,"3,646,466.00","3,740,927.10",34.5, MA 
+,La Anexa,,8,2022,AM,"122,346.00","132,322.00",6.19, M1 
+BM03,Carlos Steinvorth,,8,2022,AM,"3,420,040.50","3,513,435.60",33.12, MA 
+,29 A,Datos Irregulares,8,2022,AM,"93,025.00","93,025.00",17.99, M1 
+BM14,Sacramento,,8,2022,AM,"3,217,365.00","3,291,910.00",26.7, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,8,2022,AM,"197,255.00","199,791.00",1.11, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,8,2022,AM,"10,510,373.00","10,867,463.00",125.3, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,8,2022,AM,"6,060,355.00","6,120,898.00",24.98, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,8,2022,AM,"7,973,391.00","7,973,407.00",12.7, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,8,2022,AM,"7,551,921.00","7,897,510.00",131.8, MA 
+BM10,"El Higueron 8""  (6"")",,8,2022,AM,"6,418,299.00","6,594,802.00",49.52, MA 
+BM11,"LA Gemela #1 (6"")",,8,2022,AM,"3,938,743.00","3,959,642.00",7.98, MA 
+BM12,"LA Gemela #2  (6"")",,8,2022,AM,"6,022,436.00","6,186,469.00",56.74, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Macromedidor en mal estado,8,2022,PM,,,174.62, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",Problema de energización,8,2022,AM,,,21.94, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,8,2022,AM,"1,597,306.00","1,786,748.00",72.3, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,8,2022,AM,"1,409,732.00","1,487,865.00",21.9, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,8,2022,AM,"1,228,298.00","1,475,028.00",22.44, MA 
+,Mata Plátano,,8,2022,PM,"79,987.59","79,921.79",4.85,
+BM25,"Sacramento 3""",,8,2022,AM,"85,439.00","88,320.00",5.25,
+SPM01,"Pozo Miraflores        ( 8"" )",Pozo Apagado,9,2022,PM,"3,003,537.00","3,015,435.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,9,2022,PM,"5,150,802.00","5,261,252.00",49.4, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",Pozo Apagado,9,2022,PM,"4,296.00","7,633.00", FOP , MA 
+HM07,Pozo Real Santamaría,,9,2022,PM,"16,569,135.00","16,748,909.00",74.09, MA 
+HM17,"Pozo Trebol (8"")",,9,2022,PM,"4,017,110.00","4,183,357.00",68.4, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,9,2022,PM,"863,127.05","893,078.90", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,9,2022,PM,"3,822,605.00","3,910,934.00",36.3, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,9,2022,PM,"156,767.00","156,769.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,9,2022,PM,"135,775.73","135,776.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,9,2022,PM,"655,260.00","772,904.49",49.92, MA 
+HM22,Medidor para venta de agua Malinches,,9,2022,PM,960.67,"1,000.90", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",Macromedidor en mal estado,9,2022,PM,"385,128.70","759,161.80",85.21, M2 
+HM06,"Pozo San Vicente        ( 10"" )",Pozo Apagado,9,2022,PM,"7,661,920.00","7,766,467.00",55.56, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,9,2022,PM,"5,659,022.00","5,782,244.00",50.3, MA 
+HM19,"Pozo Boruca (8"")",,9,2022,PM,"222,193.10","280,443.14",23.62, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",Pozo Apagado,9,2022,PM,"1,173,335.20","1,174,484.00", FOP , MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Pozo Apagado,9,2022,AM,"303,058.00","303,085.00", FOP , MA 
+SRM37,Pozo Los Altos II ,Pozo Apagado,9,2022,AM,"1,767,096.10","1,768,232.10", FOP , MA 
+SRM32,"Pozo Matasanos      ( 4"" )",Pozo Apagado,9,2022,AM,"443,894.00","443,894.00", FOP , MA 
+SRM26,Pozo Joya 1,Pozo Apagado,9,2022,PM,"504,358.43","504,375.39", FOP , MA 
+SRM33,Pozo Joya 2,Pozo Apagado,9,2022,PM,"3,315,609.50","3,315,644.30", FOP , MA 
+HM13,"Pozo Joya 3 (8"")",,9,2022,PM,"2,348,888.00","2,349,820.00", FOP , MA 
+SRM30,"Pozo Santiago ( 8"" )",Pozo Apagado,9,2022,AM,"1,550,564.00","1,558,497.00", FOP , MA 
+SRM25,"Pozo Burial       ( 6"" )",Pozo Apagado,9,2022,AM,"1,546,952.00","1,558,918.00", FOP , MA 
+SRM12,"Pozo Highland Ranch (3"")",Pozo Apagado,9,2022,AM,"617,388.00","622,962.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,Pozo Apagado,9,2022,AM,"1,647,543.90","1,649,839.20",16.7, MA 
+SIM02,"Pozo Santa Cruz II (8"")",,9,2022,AM,"2,687.95","46,548.00",40.84, MA 
+SIM12,"Mata Maiz Llegando al Tanque 4""",,9,2022,AM,"676,191.00","707,533.00",12.77, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,9,2022,AM,"932,848.00","953,306.00",8.25, MA 
+SIM14,"Limpieza Tanque Victoria 8""",,9,2022,AM,"19,829.00","19,829.00", FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,9,2022,AM,"1,475,218.00","1,515,468.00",29.29, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,9,2022,AM,"828,949.00","829,490.52", FOP , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,9,2022,AM,"18,648.64","18,941.16",36.6, MA 
+PEND,"Victoria Saliendo 6""",,9,2022,AM,"1,625,669.00","1,698,211.00",, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,9,2022,AM,"268,077.00","268,574.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,9,2022,AM,"488,157.00","504,561.00",3.24, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,9,2022,AM,"474,948.00","490,559.00",3.11, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,9,2022,AM,"211,430.00","221,928.00",3.12, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,9,2022,AM,"39,693.00","52,890.00",2.17, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Estación Fuera de Operación Definitiva,9,2022,,,,, MA 
+SRM51,Breña Mora Entrada Planta,,9,2022,AM,"1,429,459.80","1,466,951.30",14.8, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,9,2022,AM,"1,247,137.10","1,277,514.06", FOP , MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,9,2022,AM,"122,883.00","132,848.00",14.71, MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Macromedidor en mal estado,9,2022,AM,"13,560.00","13,789.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,9,2022,AM,"23,001.40","23,648.00", FOP , MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,9,2022,AM,"101,609.00","140,798.00",11.68, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,9,2022,AM,"1,397,380.00","1,438,878.00",10.59, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,9,2022,AM,"1,454,432.00","1,508,258.00",17.16, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,9,2022,AM,"1,126,834.00","1,148,884.00",12.05, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,9,2022,AM,"3,637,429.00","3,708,455.00",42.36, MA 
+SIM17,Cementerio  Bunt Planet,Problema de energización,9,2022,AM,"835,831.00","851,230.92",7.39, MA 
+SIM18,Mas x Menos Bunt Planet,Punto Sin Macromedidor,9,2022,AM,"1,290,564.70","1,318,735.00",14.7, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,9,2022,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,9,2022,AM,"570,247.00","594,427.00",9.14, MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,9,2022,,"2,366,541.00",,, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,9,2022,AM,"1,473,360.00","1,521,456.00",18.93, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,9,2022,AM,"171,314.00","207,502.00",14.59, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,9,2022,AM,"2,400,039.00","2,539,829.00",54.65, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Macromedidor en mal estado,9,2022,AM,"6,617.00","244,505.00",94.7, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Macromedidor en mal estado,9,2022,AM,"10,509,924.00","10,772,820.00",99.43, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,9,2022,AM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",Macromedidor en mal estado,9,2022,AM,,"92,007,591.00",13.97, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Macromedidor en mal estado,9,2022,,,,, MA 
+,Iris Hernández,,9,2022,AM,"294,761.00","367,798.00",30.7, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,9,2022,,,,, M2  
+BM09,Botho Steinvorth,,9,2022,AM,"3,154,959.60","3,252,289.00",40.15, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,9,2022,AM,"1,972,115.00","2,015,660.00",18.14, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",Datos Irregulares,9,2022,AM,"5,446,620.00","5,563,953.60",100.11, MA 
+,29 Catarata,,9,2022,AM,"184,455.00","228,310.00",17.09,
+BM16,Arrieta,,9,2022,AM,"3,740,927.10","3,828,813.60",36.1, MA 
+,La Anexa,,9,2022,AM,"132,322.00","147,653.00",7.26, M1 
+BM03,Carlos Steinvorth,,9,2022,AM,"3,513,435.60","3,603,208.10",37.86, MA 
+,29 A,Datos Irregulares,9,2022,AM,"93,025.00","93,097.00",15.93, M1 
+BM14,Sacramento,,9,2022,AM,"3,291,910.00","3,363,218.00",27.57, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,9,2022,p,"199,791.00","202,419.00",1.32, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,9,2022,AM,"10,867,463.00",,, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,9,2022,AM,"6,120,898.00","6,175,923.00",20.48, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,9,2022,AM,"7,973,407.00","7,973,418.00",17.68, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,9,2022,AM,"7,897,510.00","8,243,688.00",140.7, MA 
+BM10,"El Higueron 8""  (6"")",,9,2022,AM,"6,594,802.00","6,776,356.00",72.7, MA 
+BM11,"LA Gemela #1 (6"")",,9,2022,AM,"3,959,642.00","3,979,333.00",7.91, MA 
+BM12,"LA Gemela #2  (6"")",,9,2022,AM,"6,186,469.00","6,364,880.00",73.8, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Macromedidor en mal estado,9,2022,AM,,,122.04, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",Problema de energización,9,2022,AM,,,21.61, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,9,2022,AM,"1,786,748.00","1,962,488.00",71.1, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,9,2022,AM,"1,487,865.00","1,535,079.00",21.22, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,9,2022,AM,"1,475,028.00","1,341,620.00",20.21, MA 
+,Mata Plátano,,9,2022,AM,"79,921.79","106,900.05",9.77,
+BM25,"Sacramento 3""",,9,2022,AM,"88,320.00","100,385.00",4.85,
+SPM01,"Pozo Miraflores        ( 8"" )",Pozo Apagado,10,2022,p,"3,015,435.00","3,016,243.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,10,2022,p,"5,261,252.00","5,399,307.00",49.3, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",Pozo Apagado,10,2022,p,"7,633.00","7,638.00", FOP , MA 
+HM07,Pozo Real Santamaría,,10,2022,p,"16,748,909.00","16,951,847.00",73.25, MA 
+HM17,"Pozo Trebol (8"")",,10,2022,p,"4,183,357.00","4,361,435.00",101.6, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,10,2022,AM,"893,078.90","911,942.99", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,10,2022,AM,"3,910,934.00","4,009,489.00",37.8, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,10,2022,AM,"156,769.00","156,770.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,10,2022,AM,"135,776.00","135,776.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,10,2022,AM,"772,904.49","870,565.13",50.5, MA 
+HM22,Medidor para venta de agua Malinches,,10,2022,AM,"1,000.90","1,000.90", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",Macromedidor en mal estado,10,2022,AM,"759,161.80","999,098.57",85.3, M2 
+HM06,"Pozo San Vicente        ( 10"" )",Pozo Apagado,10,2022,,"7,766,467.00",,, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,10,2022,AM,"5,782,244.00","5,919,744.00",51.8, MA 
+HM19,"Pozo Boruca (8"")",,10,2022,AM,"280,443.14","343,746.90",23.82, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",Pozo Apagado,10,2022,AM,"1,174,484.00","1,174,562.00", FOP , MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Pozo Apagado,10,2022,AM,"303,085.00","306,324.00", FOP , MA 
+SRM37,Pozo Los Altos II ,Pozo Apagado,10,2022,AM,"1,768,232.10","1,773,330.80", FOP , MA 
+SRM32,"Pozo Matasanos      ( 4"" )",Pozo Apagado,10,2022,AM,"443,894.00","443,917.00", FOP , MA 
+SRM26,Pozo Joya 1,Pozo Apagado,10,2022,PM,"504,375.39","504,975.10", FOP , MA 
+SRM33,Pozo Joya 2,Pozo Apagado,10,2022,PM,"3,315,644.30","3,316,980.00", FOP , MA 
+HM13,"Pozo Joya 3 (8"")",Pozo Apagado,10,2022,AM,"2,349,820.00","2,357,215.00", FOP , MA 
+SRM30,"Pozo Santiago ( 8"" )",Pozo Apagado,10,2022,PM,"1,558,497.00","1,566,863.00", FOP , MA 
+SRM25,"Pozo Burial       ( 6"" )",,10,2022,PM,"1,558,918.00","1,593,001.00",31.2, MA 
+SRM12,"Pozo Highland Ranch (3"")",Pozo Apagado,10,2022,AM,"622,962.00","631,944.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,,10,2022,AM,"1,649,839.20","1,658,938.10",16.5, MA 
+SIM02,"Pozo Santa Cruz II (8"")",,10,2022,AM,"46,548.00","96,184.26",41.54, MA 
+SIM12,"Mata Maiz Llegando al Tanque 4""",,10,2022,AM,"707,533.00","737,859.00",7.32, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,10,2022,AM,"953,306.00","975,910.00",7.53, MA 
+SIM14,"Limpieza Tanque Victoria 8""",,10,2022,AM,"19,829.00","19,829.00", FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,10,2022,AM,"1,515,468.00","1,557,379.00",28.78, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,10,2022,AM,"829,490.52","830,612.85", FOP , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,10,2022,AM,"18,941.16","19,190.82",, MA 
+PEND,"Victoria Saliendo 6""",,10,2022,,"1,698,211.00",,, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,10,2022,AM,"268,574.00","272,804.00",16.26, MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,10,2022,AM,"504,561.00","519,144.00", -   , MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,10,2022,AM,"490,559.00","505,100.00", -   , MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,10,2022,AM,"221,928.00","519,744.00", -   , MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,10,2022,AM,"52,890.00","59,961.00", -   , MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Estación Fuera de Operación Definitiva,10,2022,,,"148,634.00", -   , MA 
+SRM51,Breña Mora Entrada Planta,,10,2022,AM,"1,466,951.30","1,506,896.70",12.4, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,10,2022,AM,"1,277,514.06","1,314,787.30", -   , MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,10,2022,AM,"132,848.00","148,639.00", -   , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Macromedidor en mal estado,10,2022,AM,"13,789.00","13,891.00", -   , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,10,2022,AM,"23,648.00","24,432.09",0.9, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,10,2022,AM,"140,798.00","190,429.00",13.12, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,10,2022,AM,"1,438,878.00","1,484,970.00",11:08, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,10,2022,,"1,508,258.00", -   , -   , MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,10,2022,AM,"1,148,884.00","1,175,758.00",12.7, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,10,2022,AM,"3,708,455.00","3,792,580.00",39.29, MA 
+SIM17,Cementerio  Bunt Planet,Problema de energización,10,2022,AM,"851,230.92","868,453.11",8.73, MA 
+SIM18,Mas x Menos Bunt Planet,Punto Sin Macromedidor,10,2022,AM,"1,318,735.00","1,350,123.00",15.09, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,10,2022,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,10,2022,AM,"594,427.00","619,987.00",7.91, MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,10,2022,AM,,"2,511,761.00",28.49, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,10,2022,AM,"1,521,456.00","1,578,350.00",22.36, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,10,2022,AM,"207,502.00","246,977.00",12.59, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,10,2022,AM,"2,539,829.00","2,689,178.00",45.85, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,10,2022,AM,"244,505.00","503,980.00",76.27, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Macromedidor en mal estado,10,2022,AM,"10,772,820.00","11,061,726.00",90.49, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",,10,2022,AM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,10,2022,AM,"920,075.91","952,605.26",13.58, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Macromedidor en mal estado,10,2022,,,,, MA 
+,Iris Hernández,,10,2022,AM,"367,798.00","441,605.00",23.96, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,10,2022,,,,, M2  
+BM09,Botho Steinvorth,,10,2022,AM,"3,252,289.00","3,348,652.50",24.75, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,10,2022,AM,"2,015,660.00","2,062,927.00",17.22, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",Datos Irregulares,10,2022,AM,"5,563,953.60","5,690,464.90",67.31, MA 
+,29 Catarata,,10,2022,AM,"228,310.00","275,834.00",17.34,
+BM16,Arrieta,,10,2022,AM,"3,828,813.60","3,926,707.30",34.68, MA 
+,La Anexa,,10,2022,AM,"147,653.00","158,581.00",6.16, M1 
+BM03,Carlos Steinvorth,,10,2022,AM,"3,603,208.10","3,707,567.50",32.61, MA 
+,29 A,Datos Irregulares,10,2022,AM,"93,097.00","93,097.00",17.37, M1 
+BM14,Sacramento,,10,2022,PM,"3,363,218.00","3,440,504.00",27.95, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,10,2022,AM,"202,419.00","205,349.00",1.36, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,10,2022,AM,,"11,334,766.00",128.13, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,10,2022,AM,"6,175,923.00","6,233,849.00",18.91, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,10,2022,AM,"7,973,418.00","7,973,469.00",15.18, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,10,2022,AM,"8,243,688.00","8,627,451.00",129.7, MA 
+BM10,"El Higueron 8""  (6"")",,10,2022,AM,"6,776,356.00","6,972,505.00",66.06, MA 
+BM11,"LA Gemela #1 (6"")",,10,2022,AM,"3,979,333.00","4,000,179.00",7.36, MA 
+BM12,"LA Gemela #2  (6"")",,10,2022,AM,"6,364,880.00","6,552,410.00",64.55, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Macromedidor en mal estado,10,2022,PM,,,171.31, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",Problema de energización,10,2022,AM,,,21.08, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,10,2022,AM,"1,962,488.00","2,147,951.00",50.7, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,10,2022,AM,"1,535,079.00","1,598,430.00",28.83, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,10,2022,AM,"1,341,620.00","1,399,238.00",28.23, MA 
+,Mata Plátano,,10,2022,AM,"106,900.05","139,487.91",4.27,
+BM25,"Sacramento 3""",,10,2022,PM,"100,385.00","114,259.00",5.17,
+SPM01,"Pozo Miraflores        ( 8"" )",Pozo Apagado,11,2022,AM,"3,016,243.00","3,016,243.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,11,2022,AM,"5,399,307.00","5,526,721.00",50.2, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",Pozo Apagado,11,2022,AM,"7,638.00","7,822.00", FOP , MA 
+HM07,Pozo Real Santamaría,,11,2022,AM,"16,951,847.00","17,139,455.00",78.82, MA 
+HM17,"Pozo Trebol (8"")",,11,2022,AM,"4,361,435.00","4,459,093.00",68.7, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",Pozo Apagado,11,2022,AM,"911,942.99","912,546.46", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,11,2022,AM,"4,009,489.00","4,101,042.00",37.9, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,11,2022,AM,"156,770.00","156,770.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,11,2022,AM,"135,776.00","135,776.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,11,2022,AM,"870,565.13","990,675.05",50.74, MA 
+HM22,Medidor para venta de agua Malinches,Pozo Apagado,11,2022,AM,"1,000.90","1,000.90", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,11,2022,AM,"999,098.57","1,212,789.85",85.23, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,11,2022,AM,,"68,817.00",109.49, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,11,2022,AM,"5,919,744.00","6,047,971.00",51, MA 
+HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,11,2022,AM,"343,746.90",, FOP , MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,11,2022,AM,"1,174,562.00","1,207,249.00",29.46, MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Pozo Apagado,11,2022,AM,"306,324.00","328,399.00", FOP , MA 
+SRM37,Pozo Los Altos II ,,11,2022,AM,"1,773,330.80","1,836,302.60",29.94, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",Pozo Apagado,11,2022,AM,"443,917.00","455,914.00", FOP , MA 
+SRM26,Pozo Joya 1,,11,2022,AM,"504,975.10","514,998.73",8.96, MA 
+SRM33,Pozo Joya 2,,11,2022,AM,"3,316,980.00","3,340,651.60",26.49, MA 
+HM13,"Pozo Joya 3 (8"")",,11,2022,AM,"2,357,215.00","2,391,952.00",35.2, MA 
+SRM30,"Pozo Santiago ( 8"" )",Pozo Apagado,11,2022,AM,"1,566,863.00","1,591,907.00", FOP , MA 
+SRM25,"Pozo Burial       ( 6"" )",Pozo Apagado,11,2022,AM,"1,593,001.00","1,639,234.00", FOP , MA 
+SRM12,"Pozo Highland Ranch (3"")",Pozo Apagado,11,2022,AM,"631,944.00","642,279.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,Pozo Apagado,11,2022,PM,"1,658,938.10","1,660,940.80", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,11,2022,PM,"96,184.26","153,199.95",45.62, MA 
+,Pozo Vilaseca,Pozo Apagado,11,2022,PM,,"64,721.85", FOP ,
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,11,2022,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,11,2022,PM,"737,859.00","767,098.00",12.1, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,11,2022,PM,"975,910.00","997,052.00",7, MA 
+SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,11,2022,PM,"19,829.00","29,829.00",28.98, MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,11,2022,PM,"1,557,379.00","1,596,151.00",28.98, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",Linea fuera de Operación,11,2022,PM,"830,612.85","832,845.27", FOP , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",Linea fuera de Operación,11,2022,PM,"19,190.82","19,396.07", FOP , MA 
+PEND,"Victoria Saliendo 6""",Linea fuera de Operación,11,2022,PM,,"1,763,468.00",34.84, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Linea fuera de Operación,11,2022,PM,"272,804.00","276,512.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,11,2022,PM,"519,144.00","521,867.00",8.68, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,11,2022,,"505,100.00","521,867.00",8.3, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,11,2022,AM,"219,744.00","231,900.00",1.02, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,11,2022,AM,"59,961.00","77,790.00",12.68, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),,11,2022,AM,"148,634.00","165,233.00",17.05, MA 
+SRM51,Breña Mora Entrada Planta,,11,2022,AM,"1,506,896.70","1,544,672.00",14.8, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,11,2022,AM,"1,314,787.30","1,350,228.00",22.6, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,11,2022,AM,"148,639.00","165,233.00",17.05, MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Linea fuera de Operación,11,2022,AM,"13,891.00","13,891.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,11,2022,AM,"24,432.09","25,158.00",0.96, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,11,2022,AM,"190,429.00","227,862.00",5.69, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,11,2022,AM,"1,484,970.00","1,520,982.00",7.53, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,11,2022,AM, -   ,"1,534,926.00",17.14, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,11,2022,AM,"1,175,758.00","1,201,900.00",13.94, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,11,2022,AM,"3,792,580.00","3,870,304.00",42.96, MA 
+SIM17,Cementerio  Bunt Planet,,11,2022,PM,"868,453.11","885,211.13",8.47, MA 
+SIM18,Mas x Menos Bunt Planet,,11,2022,PM,"1,350,123.00","1,380,482.50",14.86, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,11,2022,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,11,2022,PM,"619,987.00","643,677.00", FOP , MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,11,2022,AM,"2,511,761.00","2,582,433.00",27.99, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,11,2022,AM,"1,578,350.00","1,632,264.00",22.53, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,11,2022,AM,"246,977.00","274,945.00",10.28, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,11,2022,AM,"2,689,178.00","2,804,594.00",48.22, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,11,2022,AM,"503,980.00","671,621.00",49.26, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,11,2022,AM,"11,061,726.00","11,264,926.00",81.64, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",,11,2022,AM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,11,2022,AM,"95,260,526.00","98,390,129.00",13.17, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Estación Fuera de Operación Definitiva,11,2022,,,,, MA 
+,Iris Hernández,,11,2022,AM,"441,605.00","496,138.00",20.46, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,11,2022,,,,, M2  
+BM09,Botho Steinvorth,,11,2022,AM,"3,348,652.50","3,400,362.80",19.26, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,11,2022,AM,"2,062,927.00","2,104,811.00",16.77, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,11,2022,AM,"5,690,464.90","5,805,767.50",68.68, MA 
+,29 Catarata,,11,2022,AM,"275,834.00","318,334.00",16.51,
+BM16,Arrieta,,11,2022,AM,"3,926,707.30","4,027,559.20",14.69, MA 
+,La Anexa,,11,2022,AM,"158,581.00","178,155.00",8.77, M1 
+BM03,Carlos Steinvorth,,11,2022,AM,"37,075,675.00","37,658,212.00",10.54, MA 
+,29 A,Macromedidor en mal estado,11,2022,AM,"93,097.00","93,097.00",16.37, M1 
+BM14,Sacramento,Macromedidor en mal estado,11,2022,AM,"3,440,504.00","3,512,995.00",8.31, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,11,2022,AM,"205,349.00","207,886.00",0.74, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,11,2022,AM,"11,334,766.00","11,600,609.00",74.54, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,11,2022,AM,"6,233,849.00","6,282,289.00",8.12, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,11,2022,AM,"7,973,469.00","7,973,496.00",10.95, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,11,2022,AM,"8,627,451.00","8,895,065.00",106.9, MA 
+BM10,"El Higueron 8""  (6"")",,11,2022,AM,"6,972,505.00","7,129,194.00",46.17, MA 
+BM11,"LA Gemela #1 (6"")",,11,2022,AM,"4,000,179.00","4,019,685.00",7.47, MA 
+BM12,"LA Gemela #2  (6"")",,11,2022,AM,"6,552,410.00","6,671,827.00",46.14, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,11,2022,PM,,,99.85, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",Punto Sin Macromedidor,11,2022,AM,,,21.07, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,11,2022,AM,"2,147,951.00","2,299,119.00",65.7, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,11,2022,AM,"1,598,430.00","1,659,679.00",22.72, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,11,2022,AM,"1,399,238.00","1,454,752.00",22.12, MA 
+,Mata Plátano,,11,2022,AM,"139,487.91","160,634.00",4.8,
+BM25,"Sacramento 3""",,11,2022,AM,"114,259.00","127,550.00",5.09,
+SPM01,"Pozo Miraflores        ( 8"" )",Pozo Apagado,12,2022,PM,"3,016,043.00","3,016,043.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,12,2022,PM,"5,526,721.00","5,663,874.00",49.9, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",Pozo Apagado,12,2022,PM,"7,822.00","7,882.00", FOP , MA 
+HM07,Pozo Real Santamaría,,12,2022,PM,"17,139,455.00","17,337,566.00",70.76, MA 
+HM17,"Pozo Trebol (8"")",,12,2022,PM,"4,459,093.00","4,551,112.00",68.6, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",Pozo Apagado,12,2022,PM,"912,546.46","917,523.39", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,12,2022,PM,"4,101,042.00","4,198,280.00",39, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,12,2022,PM,"156,770.00","156,770.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,12,2022,PM,"135,776.00","135,776.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,12,2022,PM,"990,675.05","1,129,534.89", FOP , MA 
+HM22,Medidor para venta de agua Malinches,Pozo Apagado,12,2022,PM,"1,000.90","1,000.90", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,12,2022,PM,"1,212,789.85","1,448,589.09", FOP , M2 
+HM06,"Pozo San Vicente        ( 10"" )",,12,2022,AM,"68,817.00","230,725.00",109, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,12,2022,PM,"6,047,971.00","6,189,649.00",51.9, MA 
+HM19,"Pozo Boruca (8"")",,12,2022,PM,,"416,338.54",23.89, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,12,2022,PM,"1,207,249.00","1,264,824.00",29.14, MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Pozo Apagado,12,2022,PM,"328,399.00","360,723.00",13.7, MA 
+SRM37,Pozo Los Altos II ,,12,2022,PM,"1,836,302.60","1,908,092.80",30.03, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",Pozo Apagado,12,2022,PM,"455,914.00","472,740.00",10.47, MA 
+SRM26,Pozo Joya 1,,12,2022,AM,"514,998.73","536,502.15",7.6, MA 
+SRM33,Pozo Joya 2,,12,2022,AM,"3,340,651.60","3,404,493.00",24.99, MA 
+HM13,"Pozo Joya 3 (8"")",,12,2022,AM,"2,391,952.00","2,461,067.00",35.03, MA 
+SRM30,"Pozo Santiago ( 8"" )",Pozo Apagado,12,2022,AM,"1,591,907.00","1,599,757.00", FOP , MA 
+SRM25,"Pozo Burial       ( 6"" )",Pozo Apagado,12,2022,AM,"1,639,234.00","1,681,212.00",31.37, MA 
+SRM12,"Pozo Highland Ranch (3"")",Pozo Apagado,12,2022,AM,"642,279.00","650,029.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,Pozo Apagado,12,2022,AM,"1,660,940.80","1,686,294.80", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,12,2022,AM,"153,199.95","200,306.74", FOP , MA 
+,Pozo Vilaseca,Pozo Apagado,12,2022,AM,"64,721.85","86,390.59", FOP ,
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,12,2022,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,12,2022,AM,"767,098.00","789,838.00",6.59, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,12,2022,AM,"997,052.00","1,016,947.00",6.39, MA 
+SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,12,2022,AM,"19,829.00","19,829.00", FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,12,2022,AM,"1,596,151.00","1,633,034.00", FOP , MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",Linea fuera de Operación,12,2022,AM,"832,845.27","840,060.06", FOP , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",Linea fuera de Operación,12,2022,AM,"19,396.07","19,613.80", FOP , MA 
+PEND,"Victoria Saliendo 6""",Linea fuera de Operación,12,2022,AM,"1,763,468.00","1,823,259.00", FOP , MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Linea fuera de Operación,12,2022,AM,"276,512.00","285,538.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,12,2022,AM,"521,867.00","546,423.00",6.4, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,12,2022,AM,"521,867.00","530,044.00",6.6, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,12,2022,AM,"231,900.00","234,609.00",0.6, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,12,2022,AM,"77,790.00","90,297.00", FOP , MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),,12,2022,AM,"165,233.00","181,533.00",15.36, MA 
+SRM51,Breña Mora Entrada Planta,,12,2022,AM,"1,544,672.00","1,583,415.00",13.01, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,12,2022,AM,"1,350,228.00","1,387,138.90",22.02, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,12,2022,AM,"165,233.00","181,533.00",15.36, MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Linea fuera de Operación,12,2022,AM,"13,891.00","14,023.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,12,2022,AM,"25,158.00","25,968.00",1.3, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,12,2022,AM,"227,862.00","259,928.00",8.95, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,12,2022,AM,"1,520,982.00","1,558,493.00",3, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,12,2022,AM,"1,534,926.00","1,570,967.00",20.16, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,12,2022,AM,"1,201,900.00","1,230,734.00",14.61, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,12,2022,AM,"3,870,304.00","3,948,960.00",44.58, MA 
+SIM17,Cementerio  Bunt Planet,,12,2022,AM,"885,211.13","903,105.77",7.03, MA 
+SIM18,Mas x Menos Bunt Planet,,12,2022,AM,"1,380,482.50","1,412,847.74",13.4, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,12,2022,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,12,2022,AM,"643,677.00","646,175.00", FOP , MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,12,2022,AM,"2,582,433.00","2,654,891.00",24.91, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,12,2022,AM,"1,632,264.00","1,687,471.00",14.19, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,12,2022,AM,"274,945.00","310,597.00",14.08, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,12,2022,AM,"2,804,594.00","2,940,267.00",58.94, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,12,2022,AM,"671,621.00","882,507.00",78.12, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,12,2022,AM,"11,264,926.00","11,499,809.00",94.54, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",,12,2022,AM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,12,2022,AM,"983,901.29","1,017,573.50",16.07, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Estación Fuera de Operación Definitiva,12,2022,,,,, MA 
+,Iris Hernández,,12,2022,AM,"496,138.00","551,412.00",12.7, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,12,2022,,,,, M2  
+BM09,Botho Steinvorth,,12,2022,AM,"3,400,362.80","3,460,610.90",15.69, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,12,2022,AM,"2,104,811.00","2,149,413.00",13.07, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,12,2022,AM,"5,805,767.50","5,931,061.00",61.73, MA 
+,29 Catarata,,12,2022,AM,"318,334.00","363,605.00",13.75,
+BM16,Arrieta,,12,2022,AM,"4,027,559.20","4,140,864.50",29.87, MA 
+,La Anexa,,12,2022,AM,"178,155.00","195,102.00",6.57, M1 
+BM03,Carlos Steinvorth,,12,2022,AM,"3,765,821.20","3,823,805.70",19.76, MA 
+,29 A,Macromedidor en mal estado,12,2022,AM,"93,097.00","93,097.00",13.23, M1 
+BM14,Sacramento,,12,2022,PM,"3,512,995.00","3,573,984.00",31.75, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,12,2022,PM,"207,886.00","210,331.00",0.86, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,12,2022,PM,"11,600,609.00","11,890,991.00",84.14, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,12,2022,AM,"6,282,289.00","6,338,419.00",23.45, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,12,2022,AM,"7,973,496.00","7,973,516.00",17.08, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,12,2022,AM,"8,895,065.00","9,183,317.00",87, MA 
+BM10,"El Higueron 8""  (6"")",,12,2022,AM,"7,129,194.00","7,242,608.00",40.34, MA 
+BM11,"LA Gemela #1 (6"")",,12,2022,AM,"4,019,685.00","4,034,922.00",5.17, MA 
+BM12,"LA Gemela #2  (6"")",,12,2022,AM,"6,671,827.00","6,811,498.00",52.54, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,12,2022,PM,,,26.67, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,12,2022,AM,,"56,808.00",23.75, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,12,2022,AM,"2,299,119.00","2,484,361.00",61.09, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,12,2022,AM,"1,659,679.00","1,723,606.00",23.19, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,12,2022,AM,"1,454,752.00","1,512,887.00",22.43, MA 
+,Mata Plátano,,12,2022,AM,"160,634.00","175,597.22",3.81,
+BM25,"Sacramento 3""",,12,2022,AM,"127,550.00","142,123.00",5.29,
+SPM01,"Pozo Miraflores        ( 8"" )",Pozo Apagado,1,2023,AM,"3,016,043.00","3,016,043.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,1,2023,AM,"5,663,874.00","5,793,878.00",50, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",Pozo Apagado,1,2023,AM,"7,822.00","7,882.00", FOP , MA 
+HM07,Pozo Real Santamaría,,1,2023,AM,"17,337,566.00","17,523,650.00",78.89, MA 
+HM17,"Pozo Trebol (8"")",,1,2023,PM,"4,551,112.00","4,652,765.00", FOP , MA 
+HM10,"Pozo Monte Alegre ( 6"" )",Pozo Apagado,1,2023,PM,"917,523.39","926,473.68", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,1,2023,PM,"4,198,280.00","4,296,344.00",36.6, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,1,2023,AM,"156,770.00","156,770.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,1,2023,AM,"135,776.00","135,776.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",Macromedidor en mal estado,1,2023,AM,"462,542.64",, FOP , MA 
+HM22,Medidor para venta de agua Malinches,,1,2023,AM,"1,000.90","1,000.90", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,1,2023,AM,"1,448,589.09","1,624,679.62",, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,1,2023,AM,"230,725.00","441,433.00",110.33, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,1,2023,AM,"6,189,649.00","6,309,186.00",52.09, MA 
+HM19,"Pozo Boruca (8"")",,1,2023,AM,"416,338.54","468,185.92",24.13, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,1,2023,AM,"1,264,824.00","1,319,308.00",29.21, MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Pozo Apagado,1,2023,AM,"360,723.00","395,781.00",13.67, MA 
+SRM37,Pozo Los Altos II ,,1,2023,AM,"1,908,092.80","1,982,732.30",29.04, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",Pozo Apagado,1,2023,AM,"472,740.00","497,368.00",10.19, MA 
+SRM26,Pozo Joya 1,,1,2023,AM,"536,502.15","557,416.28",6.92, MA 
+SRM33,Pozo Joya 2,,1,2023,AM,"3,404,493.00","3,471,559.10",26.61, MA 
+HM13,"Pozo Joya 3 (8"")",,1,2023,AM,"2,461,067.00","2,551,710.00",35.02, MA 
+SRM30,"Pozo Santiago ( 8"" )",Pozo Apagado,1,2023,AM,"1,599,757.00","1,678,482.00", FOP , MA 
+SRM25,"Pozo Burial       ( 6"" )",Pozo Apagado,1,2023,AM,"1,681,212.00","1,745,897.00",31.6, MA 
+SRM12,"Pozo Highland Ranch (3"")",Pozo Apagado,1,2023,AM,"650,029.00","670,976.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,Pozo Apagado,1,2023,AM,"1,686,294.80","1,711,631.40", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,1,2023,AM,"200,306.74","264,538.00", FOP , MA 
+,Pozo Vilaseca,Pozo Apagado,1,2023,AM,"86,390.59","109,529.49", FOP ,
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,1,2023,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,1,2023,AM,"789,838.00","811,358.00",9.19, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,1,2023,AM,"1,016,947.00","1,033,789.00",6.89, MA 
+SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,1,2023,AM,"19,829.00","19,829.00", FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,1,2023,AM,"1,633,034.00","1,668,073.00",29.24, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",Linea fuera de Operación,1,2023,AM,"840,060.06","850,632.20", FOP , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",Linea fuera de Operación,1,2023,AM,"19,613.80","19,811.84", FOP , MA 
+PEND,"Victoria Saliendo 6""",Linea fuera de Operación,1,2023,AM,"1,823,259.00","1,886,597.00",34.14, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Linea fuera de Operación,1,2023,AM,"285,538.00","291,385.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,1,2023,AM,"546,423.00","554,928.00",3.03, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,1,2023,AM,"530,044.00","537,394.00",2.91, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,1,2023,AM,"234,609.00","236,487.00",0.77, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,1,2023,AM,"90,297.00","105,536.00",2.27, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),,1,2023,AM,"181,533.00","194,687.00", FOP , MA 
+SRM51,Breña Mora Entrada Planta,,1,2023,AM,"1,583,415.00","1,618,979.60",14.7, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,1,2023,AM,"1,387,138.90","1,420,839.80", FOP , MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,1,2023,AM,"181,533.00","194,687.00", FOP , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Linea fuera de Operación,1,2023,AM,"14,023.00","14,098.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,1,2023,AM,"25,968.00","26,745.00", FOP , MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,1,2023,AM,"259,928.00","287,474.00",5.47, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,1,2023,AM,"1,558,493.00","1,584,760.00",7.2, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,1,2023,AM,"1,570,967.00","1,612,525.00",25.17, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,1,2023,AM,"1,230,734.00","1,258,717.00",13.64, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,1,2023,AM,"3,948,960.00","4,022,790.00",34.84, MA 
+SIM17,Cementerio  Bunt Planet,,1,2023,AM,"903,105.77","921,339.32",7.97, MA 
+SIM18,Mas x Menos Bunt Planet,,1,2023,AM,"1,412,847.74","1,457,886.00",14.96, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,1,2023,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,1,2023,AM,"646,175.00","650,553.00", FOP , MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,1,2023,AM,"2,654,891.00","2,712,852.00",27.14, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,1,2023,AM,"1,687,471.00","1,730,534.00",18.34, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,1,2023,AM,"310,597.00","341,004.00",33.23, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,1,2023,AM,"2,940,267.00","3,043,055.00",33.23, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,1,2023,AM,"882,507.00","1,074,306.00",64.41, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,1,2023,AM,"11,499,809.00","11,720,317.00",69.33, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",,1,2023,AM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,1,2023,AM,"1,017,573.50","1,050,812.00",13.68, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Estación Fuera de Operación Definitiva,1,2023,,,,, MA 
+,Iris Hernández,,1,2023,AM,"551,412.00","579,579.00",9.24, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,1,2023,,,,, M2  
+BM09,Botho Steinvorth,,1,2023,AM,"3,460,610.90","3,494,709.60",13.37, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,1,2023,AM,"2,149,413.00","2,174,007.00",12.05, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,1,2023,AM,"5,931,061.00","6,054,546.40",64.9, MA 
+,29 Catarata,,1,2023,AM,"363,605.00","385,112.00",12.22,
+BM16,Arrieta,,1,2023,AM,"4,140,864.50","4,221,854.50",34.51, MA 
+,La Anexa,,1,2023,AM,"195,102.00","211,164.00",6.37, M1 
+BM03,Carlos Steinvorth,,1,2023,AM,"3,823,805.70","3,869,544.70",17.04, MA 
+,29 A,Macromedidor en mal estado,1,2023,AM,"93,097.00","93,097.00",12.3, M1 
+BM14,Sacramento,,1,2023,AM,"3,573,984.00","3,644,769.00",26.5, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,1,2023,AM,"210,331.00","212,763.00",0.85, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,1,2023,AM,"11,890,991.00","12,071,742.00",63.19, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,1,2023,AM,"6,338,419.00","6,388,099.00",19.79, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,1,2023,AM,"7,973,516.00","7,973,553.00",14.12, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,1,2023,AM,"9,183,317.00","9,438,654.00",32.3, MA 
+BM10,"El Higueron 8""  (6"")",,1,2023,AM,"7,242,608.00","7,343,625.00",33.7, MA 
+BM11,"LA Gemela #1 (6"")",,1,2023,AM,"4,034,922.00","4,048,392.00",4.78, MA 
+BM12,"LA Gemela #2  (6"")",,1,2023,AM,"6,811,498.00","6,914,020.00",30.04, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,1,2023,,,,25.09, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,1,2023,AM,"56,808.00","126,389.00",34.97, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,1,2023,AM,"2,484,361.00","2,619,535.00",63.6, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,1,2023,AM,"1,723,606.00","1,787,989.00",25.4, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,1,2023,AM,"1,512,887.00","1,571,274.00",23.21, MA 
+,Mata Plátano,,1,2023,AM,"175,597.22","187,486.00",3.56,
+BM25,"Sacramento 3""",,1,2023,AM,"142,123.00","155,261.00",5.1,
+SPM01,"Pozo Miraflores        ( 8"" )",Pozo Apagado,2,2023,AM,"3,016,043.00","3,016,043.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,2,2023,AM,"5,793,878.00","5,911,116.00",49.7, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",Pozo Apagado,2,2023,AM,"7,822.00","7,882.00", FOP , MA 
+HM07,Pozo Real Santamaría,,2,2023,AM,"17,523,650.00","17,692,115.00",74.87, MA 
+HM17,"Pozo Trebol (8"")",,2,2023,AM,"4,652,765.00","4,763,943.00",68.2, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,2,2023,AM,"926,473.68","935,662.02",25.95, MA 
+HM12,"Pozo Granada ( 10"" )",,2,2023,AM,"4,296,344.00","4,381,525.00",36.2, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,2,2023,AM,"156,770.00","156,771.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,2,2023,AM,"135,776.00","135,776.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,2,2023,AM,,"58,210.33",49.01, MA 
+HM22,Medidor para venta de agua Malinches,,2,2023,AM,"1,000.90","1,000.90", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,2,2023,AM,"1,624,679.62","1,879,848.70",84.89, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,2,2023,AM,"441,433.00","661,119.00",106.46, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,2,2023,AM,"6,309,186.00","6,433,479.00",, MA 
+HM19,"Pozo Boruca (8"")",,2,2023,AM,"468,185.92","524,466.91", FOP , MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,2,2023,AM,"1,319,308.00","1,376,520.00",29.26, MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",,2,2023,AM,"395,781.00","427,488.00",13.76, MA 
+SRM37,Pozo Los Altos II ,,2,2023,AM,"1,982,732.30","2,050,192.90",28.18, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,2,2023,AM,"497,368.00","520,728.00",10.6, MA 
+SRM26,Pozo Joya 1,,2,2023,AM,"557,416.28","574,813.91",7.13, MA 
+SRM33,Pozo Joya 2,,2,2023,AM,"3,471,559.10","3,532,212.30",27.98, MA 
+HM13,"Pozo Joya 3 (8"")",,2,2023,AM,"2,551,710.00","2,635,583.00",35.2, MA 
+SRM30,"Pozo Santiago ( 8"" )",,2,2023,AM,"1,678,482.00","1,754,513.00",31.6, MA 
+SRM25,"Pozo Burial       ( 6"" )",,2,2023,AM,"1,745,897.00","1,797,709.00",30.76, MA 
+SRM12,"Pozo Highland Ranch (3"")",,2,2023,AM,"670,976.00","689,040.00",11.38, MA 
+SIM04,Pozo Santa Cruz I        ,,2,2023,AM,"1,711,631.40","1,740,519.60",24, MA 
+SIM02,"Pozo Santa Cruz II (8"")",,2,2023,AM,"264,538.00","324,630.24",44.84, MA 
+,Pozo Vilaseca,Pozo Apagado,2,2023,AM,"109,529.49","124,594.79", -   ,
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,2,2023,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,2,2023,AM,"811,358.00","830,960.00",6.36, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,2,2023,AM,"1,033,789.00","1,049,038.00",5.86, MA 
+SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,2,2023,AM,"19,829.00","19,829.00", FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,2,2023,AM,"1,668,073.00","1,701,219.00", FOP , MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,2,2023,AM,"850,632.20","863,309.65",12.92, MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,2,2023,AM,"19,811.84","19,980.74", -   , MA 
+PEND,"Victoria Saliendo 6""",,2,2023,AM,"1,886,597.00","1,959,356.00",37.74, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,2,2023,AM,"291,385.00","293,340.00",13.4, MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,2,2023,AM,"554,928.00","569,805.00",1.48, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,2,2023,AM,"537,394.00","551,728.00",1.57, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,2,2023,AM,"236,487.00","237,909.00",0.48, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,2,2023,AM,"105,536.00","117,395.00",1.61, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),,2,2023,,,"194,687.00", FOP , MA 
+SRM51,Breña Mora Entrada Planta,,2,2023,AM,"1,618,979.60","1,653,243.50",12.9, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,2,2023,AM,"1,420,839.80","1,452,714.10",21.6, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,2,2023,AM,"194,687.00","206,546.00",14.32, MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,2,2023,AM,"14,098.00","14,231.00", -   , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,2,2023,AM,"26,745.00","27,513.00", -   , MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,2,2023,AM,"287,474.00","310,383.00",4.48, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,2,2023,AM,"1,584,760.00","1,610,202.00",0.39, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,2,2023,AM,"1,612,525.00","1,659,091.00",26.47, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,2,2023,,,"1,258,717.00",13.64, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,2,2023,,,"4,022,790.00",34.84, MA 
+SIM17,Cementerio  Bunt Planet,,2,2023,,,"921,339.32",7.97, MA 
+SIM18,Mas x Menos Bunt Planet,,2,2023,,,"1,457,886.00",14.96, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,2,2023,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,2,2023,,,"650,553.00", FOP , MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,2,2023,AM,"2,712,852.00","2,764,848.00",11.13, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,2,2023,AM,"1,730,534.00","1,773,246.00",10.99, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,2,2023,AM,"341,004.00","370,802.00",11.77, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,2,2023,AM,"3,043,055.00","3,131,296.00",25.03, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,2,2023,AM,"1,074,306.00","1,231,769.00",64.48, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,2,2023,AM,"11,720,317.00","11,900,814.00",68.93, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",,2,2023,AM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,2,2023,AM,"1,050,812.00","1,081,335.30",13.22, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Estación Fuera de Operación Definitiva,2,2023,,,,, MA 
+,Iris Hernández,,2,2023,AM,"579,579.00","601,244.00",7.78, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,2,2023,,,,, M2  
+BM09,Botho Steinvorth,,2,2023,AM,"3,494,709.60","3,523,502.00",10.73, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,2,2023,AM,"2,174,007.00","2,198,819.00",11.82, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,2,2023,AM,"6,054,546.40","6,148,524.90",54.66, MA 
+,29 Catarata,,2,2023,AM,"385,112.00","407,893.00",5.42,
+BM16,Arrieta,,2,2023,AM,"4,221,854.50","4,300,138.70",23.65, MA 
+,La Anexa,,2,2023,AM,"211,164.00","225,907.00",6.2, M1 
+BM03,Carlos Steinvorth,,2,2023,AM,"3,869,544.70","3,911,164.10",15.38, MA 
+,29 A,Macromedidor en mal estado,2,2023,AM,"93,097.00","93,097.00",12.44, M1 
+BM14,Sacramento,,2,2023,AM,"3,644,769.00","3,706,561.00",23.95, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,2,2023,AM,"212,763.00","214,846.00",1.15, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,2,2023,AM,"12,071,742.00","12,260,986.00",47.82, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,2,2023,AM,"6,388,099.00","6,434,242.00",17.85, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,2,2023,AM,"7,973,553.00","7,973,564.00",7.22, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,2,2023,AM,"9,438,654.00","9,636,484.00",87.9, MA 
+BM10,"El Higueron 8""  (6"")",,2,2023,AM,"7,343,625.00","7,425,408.00",34.47, MA 
+BM11,"LA Gemela #1 (6"")",,2,2023,AM,"4,048,392.00","4,058,658.00",3.43, MA 
+BM12,"LA Gemela #2  (6"")",,2,2023,AM,"6,914,020.00","6,977,815.00",22.85, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,2,2023,PM,,,25.35, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,2,2023,AM,"126,389.00","191,197.00",28.55, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,2,2023,AM,"2,619,535.00","2,750,251.00",45.9, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,2,2023,AM,"1,787,989.00","1,846,786.00",24.91, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,2,2023,AM,"1,571,274.00","1,624,109.00",22.84, MA 
+,Mata Plátano,,2,2023,AM,"187,486.00","195,485.20",2.97,
+BM25,"Sacramento 3""",,2,2023,AM,"155,261.00","167,349.00",4.92,
+SPM01,"Pozo Miraflores        ( 8"" )",,3,2023,PM,"3,016,043.00","3,161,204.00",55.15, MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,3,2023,PM,"5,911,116.00","6,043,522.00",49.1, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",Pozo Apagado,3,2023,PM,"7,882.00","7,882.00", FOP , MA 
+HM07,Pozo Real Santamaría,,3,2023,PM,"17,692,115.00","17,882,270.00",70.67, MA 
+HM17,"Pozo Trebol (8"")",,3,2023,PM,"4,763,943.00","4,937,723.00",68.2, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,3,2023,PM,"935,662.02","946,941.64",25.52, MA 
+HM12,"Pozo Granada ( 10"" )",,3,2023,PM,"4,381,525.00","4,476,690.00",35.7, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,3,2023,PM,"156,771.00","156,771.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,3,2023,PM,"135,776.00","135,776.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,3,2023,PM,"58,210.33","190,055.00",48.8, MA 
+HM22,Medidor para venta de agua Malinches,,3,2023,PM,"1,000.90","1,030.18", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,3,2023,PM,"1,879,848.70","2,112,689.32",84.35, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,3,2023,PM,"661,119.00","948,896.00",107.3, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,3,2023,PM,"6,433,479.00","6,570,095.00",48.8, MA 
+HM19,"Pozo Boruca (8"")",,3,2023,PM,"524,466.91","590,400.57",23.9, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,3,2023,PM,"1,376,520.00","1,453,922.00",29.21, MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",,3,2023,AM,"427,488.00","464,215.00",13.28, MA 
+SRM37,Pozo Los Altos II ,,3,2023,AM,"2,050,192.90","2,101,621.20", FOP , MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,3,2023,AM,"520,728.00","548,084.00",8.9, MA 
+SRM26,Pozo Joya 1,,3,2023,AM,"574,813.91","593,583.83",7.13, MA 
+SRM33,Pozo Joya 2,,3,2023,PM,"3,532,212.30","3,602,619.80",25.7, MA 
+HM13,"Pozo Joya 3 (8"")",,3,2023,PM,"2,635,583.00","2,733,122.00",35, MA 
+SRM30,"Pozo Santiago ( 8"" )",,3,2023,AM,"1,754,513.00","1,831,723.00",31.2, MA 
+SRM25,"Pozo Burial       ( 6"" )",,3,2023,AM,"1,797,709.00","1,867,932.00",30.53, MA 
+SRM12,"Pozo Highland Ranch (3"")",,3,2023,AM,"689,040.00","705,553.00",11.02, MA 
+SIM04,Pozo Santa Cruz I        ,,3,2023,AM,"1,740,519.60","1,767,575.60",23, MA 
+SIM02,"Pozo Santa Cruz II (8"")",,3,2023,AM,"324,630.24","409,388.81", FOP , MA 
+,Pozo Vilaseca,Pozo Apagado,3,2023,AM,"124,594.79","157,536.78", -   ,
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,3,2023,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,3,2023,AM,"830,960.00","850,063.00",7.06, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,3,2023,AM,"1,049,038.00","1,064,961.00",6.08, MA 
+SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,3,2023,AM,"19,829.00","19,829.00", -   , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,3,2023,AM,"1,701,219.00","1,734,372.00",29.08, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,3,2023,AM,"863,309.65","885,348.74", -   , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,3,2023,AM,"19,980.74","20,202.55", -   , MA 
+PEND,"Victoria Saliendo 6""",,3,2023,AM,"1,959,356.00","2,027,784.00",38.69, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,3,2023,AM,"293,340.00","303,524.00", -   , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,3,2023,AM,"569,805.00","581,433.00",8.69, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,3,2023,AM,"551,728.00","562,648.00",8.65, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,3,2023,AM,"237,909.00","238,732.00",0.19, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,3,2023,AM,"117,395.00","129,902.00",12.86, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),,3,2023,,"194,687.00",,, MA 
+SRM51,Breña Mora Entrada Planta,,3,2023,AM,"1,653,243.50","1,689,113.60",14.4, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,3,2023,AM,"1,452,714.10","1,484,535.90",21.9, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,3,2023,AM,"206,546.00","214,129.00", -   , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,3,2023,AM,"14,231.00","14,513.00", -   , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,3,2023,AM,"27,513.00","28,374.00",1.2, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,3,2023,AM,"310,383.00","354,649.00",7.98, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,3,2023,AM,"1,610,202.00","1,629,499.00", -   , MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,3,2023,AM,"1,659,091.00","1,716,794.00",36.6, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,3,2023,AM,"1,258,717.00","1,313,703.00",15.31, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,3,2023,AM,"4,022,790.00","4,159,842.00",35.54, MA 
+SIM17,Cementerio  Bunt Planet,,3,2023,AM,"921,339.32","965,279.37",9.31, MA 
+SIM18,Mas x Menos Bunt Planet,,3,2023,AM,"1,457,886.00","1,524,583.50",16.65, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,3,2023,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,3,2023,AM,"650,553.00","659,768.00", -   , MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,3,2023,AM,"2,764,848.00","2,806,548.00",20.55, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,3,2023,AM,"1,773,246.00","1,812,136.00",13, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,3,2023,AM,"370,802.00","405,347.00",16.07, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,3,2023,AM,"3,131,296.00","3,211,968.20",27.07, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,3,2023,AM,"1,231,769.00","1,361,329.00",41.73, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,3,2023,AM,"11,900,814.00","12,091,104.00",41.73, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",,3,2023,AM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,3,2023,AM,"1,081,335.30","1,114,692.20",15.19, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Estación Fuera de Operación Definitiva,3,2023,,,,, MA 
+,Iris Hernández,,3,2023,AM,"601,244.00","622,609.00",6.54, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,3,2023,,,,, M2  
+BM09,Botho Steinvorth,,3,2023,AM,"3,523,502.00","3,553,045.00",10.52, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,3,2023,AM,"2,198,819.00","2,229,779.00",8.43, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,3,2023,AM,"6,148,524.90","6,274,006.80",55.92, MA 
+,29 Catarata,,3,2023,AM,"407,893.00","425,290.00",9.83,
+BM16,Arrieta,,3,2023,AM,"4,300,138.70","4,374,369.90",22.45, MA 
+,La Anexa,,3,2023,AM,"225,907.00","242,735.00",5.74, M1 
+BM03,Carlos Steinvorth,,3,2023,AM,"3,911,164.10","3,954,075.40",18.7, MA 
+,29 A,,3,2023,AM,"93,097.00","105,640.00",11.52, M1 
+BM14,Sacramento,,3,2023,AM,"3,706,561.00","3,766,085.00",18.42, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,3,2023,AM,"214,846.00","217,367.00",1.19, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,3,2023,AM,"12,260,986.00","12,404,092.00",47.32, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",Macromedidor en mal estado,3,2023,AM,"6,434,242.00",,, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,3,2023,AM,"7,973,564.00","7,983,840.00",3.04, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,3,2023,AM,"9,636,484.00","9,813,575.00",51.1, MA 
+BM10,"El Higueron 8""  (6"")",,3,2023,AM,"7,425,408.00","7,512,705.00",31.74, MA 
+BM11,"LA Gemela #1 (6"")",,3,2023,AM,"4,058,658.00","4,067,919.00",2.61, MA 
+BM12,"LA Gemela #2  (6"")",,3,2023,AM,"6,977,815.00","7,035,610.00",19.03, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,3,2023,PM,,,18.69, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,3,2023,AM,"191,197.00","267,222.00",25.49, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,3,2023,AM,"2,750,251.00","2,871,884.00",54.7, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,3,2023,PM,"1,846,786.00","1,920,279.00",23.61, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,3,2023,PM,"1,624,109.00","1,691,005.00",23.63, MA 
+,Mata Plátano,Macromedidor en mal estado,3,2023,AM,"195,485.20",,,
+BM25,"Sacramento 3""",,3,2023,AM,"167,349.00","181,518.00",4.9,
+SPM01,"Pozo Miraflores        ( 8"" )",,4,2023,AM,"3,161,204.00","3,266,703.00",52.1, MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,4,2023,AM,"6,043,522.00","6,150,106.00",52.2, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,4,2023,AM,"7,882.00","13,705.00", FOP , MA 
+HM07,Pozo Real Santamaría,,4,2023,AM,"17,882,270.00","18,054,503.00",72.27, MA 
+HM17,"Pozo Trebol (8"")",,4,2023,PM,"4,937,723.00","5,101,400.00",68.1, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,4,2023,AM,"946,941.64","972,926.15", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,4,2023,AM,"4,476,690.00","4,561,259.00",32.7, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,4,2023,AM,"156,771.00","156,777.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,4,2023,AM,"135,776.00","135,776.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,4,2023,PM,"190,055.00","305,522.25",48.53, MA 
+HM22,Medidor para venta de agua Malinches,,4,2023,PM,"1,030.18","1,030.18", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,4,2023,PM,"2,112,689.32","2,321,241.62",84.21, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,4,2023,PM,"948,896.00","1,207,494.00",105.39, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,4,2023,AM,"6,570,095.00","6,690,051.00",48.2, MA 
+HM19,"Pozo Boruca (8"")",,4,2023,AM,"590,400.57","648,860.63",24.8, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,4,2023,AM,"1,453,922.00","1,524,217.00",28.95, MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",,4,2023,AM,"464,215.00","496,617.00",12.27, MA 
+SRM37,Pozo Los Altos II ,,4,2023,AM,"2,101,621.20","2,101,621.20", FOP , MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,4,2023,AM,"548,084.00","571,128.00",8.84, MA 
+SRM26,Pozo Joya 1,,4,2023,AM,"593,583.83","609,897.55",6.86, MA 
+SRM33,Pozo Joya 2,,4,2023,AM,"3,602,619.80","3,666,344.70",25.2, MA 
+HM13,"Pozo Joya 3 (8"")",,4,2023,AM,"2,733,122.00","2,820,633.00",35, MA 
+SRM30,"Pozo Santiago ( 8"" )",,4,2023,AM,"1,831,723.00","1,908,199.00",30.9, MA 
+SRM25,"Pozo Burial       ( 6"" )",,4,2023,AM,"1,867,932.00","1,937,777.00",30.9, MA 
+SRM12,"Pozo Highland Ranch (3"")",,4,2023,AM,"705,553.00","745,592.00",10.92, MA 
+SIM04,Pozo Santa Cruz I        ,,4,2023,AM,"1,767,575.60","1,790,934.60",23.2, MA 
+SIM02,"Pozo Santa Cruz II (8"")",,4,2023,AM,"409,388.81","484,428.00",44.5, MA 
+,Pozo Vilaseca,Pozo Apagado,4,2023,,"157,536.78",,,
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,4,2023,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,4,2023,AM,"850,063.00","866,800.00",2.9, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,4,2023,AM,"1,064,961.00","1,080,299.00",4.64, MA 
+SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,4,2023,AM,"19,829.00","19,829.00", FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,4,2023,AM,"1,734,372.00","1,764,293.00", FOP , MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,4,2023,AM,"885,348.74","905,849.30",17.35, MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,4,2023,AM,"20,202.55","20,395.82",0.22, MA 
+PEND,"Victoria Saliendo 6""",,4,2023,AM,"2,027,784.00","2,113,365.60",39.76, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,4,2023,AM,"303,524.00","317,788.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,4,2023,AM,"581,433.00","587,833.00", FOP , MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,4,2023,AM,"562,648.00","568,758.00", FOP , MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,4,2023,AM,"238,732.00","239,775.00",0.13, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,4,2023,AM,"129,902.00","137,102.00", FOP , MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),,4,2023,,,,, MA 
+SRM51,Breña Mora Entrada Planta,,4,2023,AM,"1,689,113.60","1,718,047.50",8.1, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,4,2023,AM,"1,484,535.90","1,510,853.30",21.7, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,4,2023,AM,"214,129.00","219,909.00", FOP , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,4,2023,AM,"14,513.00","15,076.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,4,2023,AM,"28,374.00","29,222.00", FOP , MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,4,2023,AM,"354,649.00","391,669.00",8.07, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,4,2023,AM,"1,629,499.00","1,643,493.00", FOP , MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,4,2023,AM,"1,716,794.00","1,777,108.00",33.64, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,4,2023,AM,"1,313,703.00","1,339,166.00",13.05, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,4,2023,AM,"4,159,842.00","4,219,147.00",42.8, MA 
+SIM17,Cementerio  Bunt Planet,,4,2023,AM,"965,279.37","986,840.00",9.43, MA 
+SIM18,Mas x Menos Bunt Planet,,4,2023,AM,"1,524,583.50","1,563,566.90",17.93, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,4,2023,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,4,2023,AM,"659,768.00","664,426.00", FOP , MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,4,2023,AM,"2,806,548.00","2,840,274.00",6.57, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,4,2023,AM,"1,812,136.00","1,842,114.00",7.16, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,4,2023,AM,"405,347.00","438,428.00",13.46, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,4,2023,AM,"3,211,968.20","3,279,449.00",16.09, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,4,2023,AM,"1,361,329.00","1,474,612.00",41.38, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,4,2023,AM,"12,091,104.00","12,260,348.00",57.84, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",,4,2023,AM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,4,2023,AM,"1,114,692.20","1,147,873.00",15.2, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Estación Fuera de Operación Definitiva,4,2023,,,,, MA 
+,Iris Hernández,,4,2023,AM,"622,609.00","634,936.00",3.82, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,4,2023,,,,, M2  
+BM09,Botho Steinvorth,,4,2023,AM,"3,553,045.00","3,575,850.70",2.74, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,4,2023,AM,"2,229,779.00","2,253,842.00",8.95, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,4,2023,AM,"6,274,006.80","6,383,369.80",40.9, MA 
+,29 Catarata,,4,2023,AM,"425,290.00","438,116.00",3.94,
+BM16,Arrieta,,4,2023,AM,"4,374,369.90","4,429,334.50",36.84, MA 
+,La Anexa,,4,2023,AM,"242,735.00","256,562.00",6.14, M1 
+BM03,Carlos Steinvorth,,4,2023,AM,"3,954,075.40","3,985,282.00",12.88, MA 
+,29 A,,4,2023,AM,"105,640.00","111,796.00",5.95, M1 
+BM14,Sacramento,,4,2023,AM,"3,766,085.00","3,807,565.00",15.24, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,4,2023,AM,"217,367.00","219,961.00",1.2, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,4,2023,AM,"12,404,092.00","12,478,755.00",31.87, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,4,2023,AM,,"6,537,033.00",19.39, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,4,2023,AM,"7,983,840.00","7,983,856.00",15.39, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,4,2023,AM,"9,813,575.00","9,937,869.00",43.2, MA 
+BM10,"El Higueron 8""  (6"")",,4,2023,AM,"7,512,705.00","7,587,846.00",28.31, MA 
+BM11,"LA Gemela #1 (6"")",,4,2023,AM,"4,067,919.00","4,074,696.00",2.83, MA 
+BM12,"LA Gemela #2  (6"")",,4,2023,AM,"7,035,610.00","7,082,951.00",18.39, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,4,2023,PM,,,10.13, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,4,2023,AM,"267,222.00","335,070.00",28.89, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,4,2023,AM,"2,871,884.00","2,966,917.00",30, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,4,2023,AM,"1,920,279.00","1,982,957.00",21.79, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,4,2023,AM,"1,691,005.00","1,748,302.00",21.66, MA 
+SR54,Mata Plátano,,4,2023,AM,,"217,132.28",2.73,
+BM25,"Sacramento 3""",,4,2023,AM,"181,518.00","193,445.00",5.49,
+SPM01,"Pozo Miraflores        ( 8"" )",,5,2023,AM,"3,266,703.00","3,339,027.00",54, MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,5,2023,PM,"6,150,106.00","6,283,354.00",51.9, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,5,2023,PM,"13,705.00","13,705.00", FOP , MA 
+HM07,Pozo Real Santamaría,,5,2023,PM,"18,054,503.00","18,233,189.00",68.86, MA 
+HM17,"Pozo Trebol (8"")",,5,2023,PM,"5,101,400.00","5,284,488.00",70.2, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,5,2023,PM,"972,926.15","1,007,272.00",20.21, MA 
+HM12,"Pozo Granada ( 10"" )",,5,2023,PM,"4,561,259.00","4,644,774.00",32.5, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,5,2023,PM,"156,777.00","156,770.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,5,2023,PM,"135,776.00","135,776.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,5,2023,PM,"305,522.25","425,922.01", FOP , MA 
+HM22,Medidor para venta de agua Malinches,,5,2023,PM,"1,030.18","1,000.90", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,5,2023,PM,"2,321,241.62","2,539,062.39",83.8, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,5,2023,PM,"1,207,494.00","1,478,142.00",104.75, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,5,2023,PM,"6,690,051.00","6,811,406.00",46.2, MA 
+HM19,"Pozo Boruca (8"")",,5,2023,AM,"648,860.63","710,308.55",23.6, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,5,2023,AM,"1,524,217.00","1,597,478.00",29.11, MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",,5,2023,AM,"496,617.00","523,503.00",8.68, MA 
+SRM37,Pozo Los Altos II ,,5,2023,AM,"2,101,621.20","2,101,621.20", FOP , MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,5,2023,AM,"571,128.00",,, MA 
+SRM26,Pozo Joya 1,,5,2023,AM,"609,897.55","625,953.95",5.97, MA 
+SRM33,Pozo Joya 2,,5,2023,AM,"3,666,344.70","3,731,604.70",24.73, MA 
+HM13,"Pozo Joya 3 (8"")",,5,2023,PM,"2,820,633.00","2,910,980.00",35.1, MA 
+SRM30,"Pozo Santiago ( 8"" )",,5,2023,AM,"1,908,199.00","1,989,911.10",31, MA 
+SRM25,"Pozo Burial       ( 6"" )",,5,2023,AM,"1,937,777.00","2,015,721.00",31.04, MA 
+SRM12,"Pozo Highland Ranch (3"")",,5,2023,AM,"745,592.00","846,141.00",10.87, MA 
+SIM04,Pozo Santa Cruz I        ,,5,2023,PM,"1,790,934.60","1,815,845.70",22.66, MA 
+SIM02,"Pozo Santa Cruz II (8"")",,5,2023,PM,"484,428.00","586,364.47",44.77, MA 
+,Pozo Vilaseca,,5,2023,PM,,"253,744.24",55.18, MA 
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,5,2023,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,5,2023,AM,"866,800.00","872,458.00",1.8, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,5,2023,AM,"1,080,299.00","1,090,226.00",3.42, MA 
+SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,5,2023,AM,"19,829.00","19,829.00", FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,5,2023,AM,"1,764,293.00","1,779,540.00", Sin Caudal , MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,5,2023,AM,"905,849.30","944,901.40", Sin Caudal , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,5,2023,AM,"20,395.82","20,611.28", -   , MA 
+PEND,"Victoria Saliendo 6""",,5,2023,AM,"2,113,365.60","2,206,113.00",39.59, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,5,2023,AM,"317,788.00","336,839.00",15.84, MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,5,2023,AM,"587,833.00","592,726.00",0.42, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,5,2023,AM,"568,758.00","573,521.00",0.4, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,5,2023,AM,"239,775.00","239,908.00", -   , MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,5,2023,AM,"137,102.00","138,653.00", -   , MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),,5,2023,,,,, MA 
+SRM51,Breña Mora Entrada Planta,,5,2023,AM,"1,718,047.50","1,735,401.30",5.1, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,5,2023,AM,"1,510,853.30","1,527,833.50", FOP , MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,5,2023,AM,"219,909.00","221,069.00", FOP , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,5,2023,AM,"15,076.00","17,459.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,5,2023,AM,"29,222.00","30,003.00", FOP , MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,5,2023,AM,"391,669.00","428,355.00",12.37, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,5,2023,AM,"1,643,493.00","1,644,114.00", FOP , MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,5,2023,AM,"1,777,108.00","1,843,074.00",28.74, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,5,2023,AM,"1,339,166.00","1,365,596.00",16.52, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,5,2023,AM,"4,219,147.00","4,279,939.00",30.25, MA 
+SIM17,Cementerio  Bunt Planet,,5,2023,AM,"986,840.00","1,008,918.60",9.31, MA 
+SIM18,Mas x Menos Bunt Planet,,5,2023,AM,"1,563,566.90","1,604,222.40",17.51, MA 
+SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,5,2023,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,5,2023,AM,"664,426.00","668,144.00", Sin Caudal , MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,5,2023,AM,"2,840,274.00","2,844,728.00", FOP , MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,5,2023,AM,"1,842,114.00","1,845,918.00",0.6, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,5,2023,AM,"438,428.00","469,049.00",10.04, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,5,2023,AM,"3,279,449.00","3,318,846.00",12.42, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,5,2023,AM,"1,474,612.00","1,579,892.00",34.04, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,5,2023,AM,"12,260,348.00","12,404,946.00",47.55, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",,5,2023,AM,"579,299.89",, FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,5,2023,AM,"1,147,873.00","1,841,285.00",14.91, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Estación Fuera de Operación Definitiva,5,2023,,,,, MA 
+,Iris Hernández,,5,2023,AM,"634,936.00","642,614.00",2.77, M1  
+PEND,Derivación ASADA San Pedro de Barva,Macromedidor en mal estado,5,2023,,,,, M2  
+BM09,Botho Steinvorth,,5,2023,AM,"3,575,850.70","3,578,048.40",4.66, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,5,2023,AM,"2,253,842.00","2,274,263.00",4.45, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,5,2023,AM,"6,383,369.80","6,498,434.50",19.59, MA 
+,29 Catarata,,5,2023,AM,"438,116.00","447,988.00",5.35,
+BM16,Arrieta,,5,2023,AM,"4,429,334.50","4,482,103.80",25.52, MA 
+,La Anexa,,5,2023,AM,"256,562.00","271,227.00",6.38, M1 
+BM03,Carlos Steinvorth,,5,2023,AM,"3,985,282.00","4,013,315.20",10.26, MA 
+,29 A,,5,2023,AM,"111,796.00","111,882.00",4.75, M1 
+BM14,Sacramento,,5,2023,AM,"3,807,565.00","3,834,990.00",11.45, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,5,2023,AM,"219,961.00","222,181.00",0.88, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,5,2023,AM,"12,478,755.00","12,534,738.00",21.2, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,5,2023,AM,"6,537,033.00","6,587,759.00",11.46, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,5,2023,AM,"7,983,856.00","7,983,899.00",24.56, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,5,2023,AM,"9,937,869.00","10,012,882.00",24.01, MA 
+BM10,"El Higueron 8""  (6"")",,5,2023,AM,"7,587,846.00","7,662,011.00",26.9, MA 
+BM11,"LA Gemela #1 (6"")",,5,2023,AM,"4,074,696.00","4,083,030.00",3.4, MA 
+BM12,"LA Gemela #2  (6"")",,5,2023,AM,"7,082,951.00","7,132,270.00",20.3, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,5,2023,PM,,,5.26, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,5,2023,AM,"335,070.00","411,444.00",28.06, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,5,2023,AM,"2,966,917.00","3,044,328.00",28.4, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,5,2023,AM,"1,982,957.00","2,038,300.00",23.9, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,5,2023,AM,"1,748,302.00","1,798,743.00",22.59, MA 
+SR54,Mata Plátano,,5,2023,AM,"217,132.28","223,571.30",6.71, MA 
+BM25,"Sacramento 3""",,5,2023,PM,"193,445.00","207,292.00",5.18,
+SPM01,"Pozo Miraflores        ( 8"" )",,6,2023,PM,"3,339,027.00","3,482,162.00",56, MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,6,2023,AM,"6,283,354.00","6,422,149.00",52, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,6,2023,AM,"13,705.00","13,710.00", FOP , MA 
+HM07,Pozo Real Santamaría,,6,2023,AM,"18,233,189.00","18,420,088.00",72.57, MA 
+HM17,"Pozo Trebol (8"")",,6,2023,AM,"5,284,488.00","5,468,117.00",70.4, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,6,2023,AM,"1,007,272.00","1,034,313.10", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,6,2023,AM,"4,644,774.00","4,732,675.00",31.4, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,6,2023,AM,"156,770.00","156,777.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,6,2023,AM,"135,776.00","135,777.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,6,2023,AM,"425,922.01","552,808.50",47.5, MA 
+HM22,Medidor para venta de agua Malinches,,6,2023,AM,"1,000.90","1,030.18",, MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,6,2023,AM,"2,539,062.39","2,766,972.25",83.75, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,6,2023,AM,"1,478,142.00","1,767,573.00",106.3, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,6,2023,AM,"6,811,406.00","6,937,389.00",46.8, MA 
+HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,6,2023,PM,"710,308.55", FOP ,22.82, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,6,2023,AM,"1,597,478.00","1,673,814.00",28.88, MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",,6,2023,PM,"523,503.00","544,579.00",9.87, MA 
+SRM37,Pozo Los Altos II ,,6,2023,PM,"21,016,212.00","21,600,077.00",29.11, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,6,2023,PM,"574,205.00","591,199.00",7.76, MA 
+SRM26,Pozo Joya 1,,6,2023,PM,"625,953.95","640,082.31", FOP , MA 
+SRM33,Pozo Joya 2,,6,2023,PM,"3,731,604.70","3,792,630.00", FOP , MA 
+HM13,"Pozo Joya 3 (8"")",,6,2023,PM,"2,910,980.00","2,997,063.00", FOP , MA 
+SRM30,"Pozo Santiago ( 8"" )",,6,2023,PM,"1,989,911.10","2,054,069.00",30.3, MA 
+SRM25,"Pozo Burial       ( 6"" )",,6,2023,PM,"2,015,721.00","2,096,373.00",31.43, MA 
+SRM12,"Pozo Highland Ranch (3"")",Macromedidor en mal estado,6,2023,AM,"846,141.00", FOP ,11.38, MA 
+SIM04,Pozo Santa Cruz I        ,,6,2023,AM,"1,815,845.70","1,826,277.80",22.33, MA 
+SIM02,"Pozo Santa Cruz II (8"")",,6,2023,AM,"586,364.47","660,157.05",45.88, MA 
+,Pozo Vilaseca,,6,2023,AM,"253,744.24","295,550.67", FOP , MA 
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,6,2023,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,6,2023,AM,"872,458.00","883,091.00",5.05, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,6,2023,AM,"1,090,226.00","1,100,050.00",4.28, MA 
+SIM14,"Limpieza Tanque Victoria 8""",,6,2023,AM,"19,829.00","19,829.00", FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,6,2023,AM,"1,779,540.00","1,799,537.00", FOP , MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,6,2023,AM,"944,901.40","978,782.70",20.43, MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,6,2023,AM,"20,611.28","20,793.33", FOP , MA 
+PEND,"Victoria Saliendo 6""",,6,2023,AM,"2,206,113.00","2,298,303.00",41.02, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,6,2023,AM,"336,839.00","645,128.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,6,2023,AM,"592,726.00","604,288.00",8.89, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,6,2023,AM,"573,521.00","584,390.00",8.45, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,6,2023,AM,"239,908.00","242,261.00",0.97, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,6,2023,AM,"138,653.00","152,323.00",9.23, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,6,2023,AM,,"225,923.00", FOP , MA 
+SRM51,Breña Mora Entrada Planta,,6,2023,AM,"1,735,401.30","1,766,082.10",13.5, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,6,2023,AM,"1,527,833.50","1,552,954.70",21.8, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,6,2023,AM,"221,069.00","225,923.00", FOP , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,6,2023,AM,"17,459.00","18,049.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,6,2023,AM,"30,003.00","30,664.00",0.49, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,6,2023,AM,"428,355.00","464,679.00",4.91, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,6,2023,AM,"1,644,114.00","1,676,786.00", FOP , MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,6,2023,PM,"1,843,074.00","1,902,603.00",, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,6,2023,PM,"1,365,596.00","1,389,783.00",11.67, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,6,2023,AM,"4,279,939.00","4,335,824.00",27.18, MA 
+SIM17,Cementerio  Bunt Planet,,6,2023,AM,"1,008,918.60","1,029,636.50",8.92, MA 
+SIM18,Mas x Menos Bunt Planet,,6,2023,AM,"1,604,222.40","1,641,447.40",17.36, MA 
+SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,6,2023,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,6,2023,AM,"668,144.00","683,434.00", FOP , MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,6,2023,AM,"2,844,728.00","2,900,592.00",27.53, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,6,2023,AM,"1,845,918.00","1,874,281.00",15.89, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,6,2023,AM,"469,049.00","503,222.00",15.23, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,6,2023,AM,"3,318,846.00","3,397,170.00",40.23, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,6,2023,AM,"1,579,892.00","1,712,461.00",45.2, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,6,2023,AM,"12,404,946.00","12,588,312.00",61.74, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,6,2023,AM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",Macromedidor en mal estado,6,2023,AM,"1,841,285.00",,14.95, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,6,2023,AM,,,, MA 
+,Iris Hernández,,6,2023,AM,"642,614.00","669,304.00",16.02, M1  
+PEND,Derivación ASADA San Pedro de Barva,,6,2023,,,,, M2  
+BM09,Botho Steinvorth,,6,2023,AM,"3,578,048.40","3,606,349.60",22.44, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,6,2023,AM,"2,274,263.00","2,306,051.00",16.14, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,6,2023,AM,"6,498,434.50","6,620,374.40",53.13, MA 
+,29 Catarata,,6,2023,AM,"447,988.00","477,611.00",13.22,
+BM16,Arrieta,,6,2023,AM,"4,482,103.80","4,538,774.20",37.33, MA 
+,La Anexa,,6,2023,AM,"271,227.00","285,427.00",6.21, M1 
+BM03,Carlos Steinvorth,,6,2023,AM,"4,013,315.20","4,040,244.00",14, MA 
+,29 A,,6,2023,AM,"111,882.00","114,537.00",15.46, M1 
+BM14,Sacramento,,6,2023,AM,"3,834,990.00","3,869,991.00",24.21, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,6,2023,PM,"222,181.00","224,405.00",1.12, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,6,2023,PM,"12,534,738.00","12,631,809.00",79.78, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,6,2023,AM,"6,587,759.00","6,641,310.00",23.35, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,6,2023,AM,"7,983,899.00","8,005,003.00",16.43, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,6,2023,PM,"10,012,882.00","10,152,773.00",90.6, MA 
+BM10,"El Higueron 8""  (6"")",,6,2023,PM,"7,662,011.00","7,732,633.00",32.97, MA 
+BM11,"LA Gemela #1 (6"")",,6,2023,PM,"4,083,030.00","4,090,831.00",3.23, MA 
+BM12,"LA Gemela #2  (6"")",,6,2023,PM,"7,132,270.00","7,185,033.00",22.62, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,6,2023,PM,,,21.25, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,6,2023,AM,"411,444.00","482,125.00",26.7, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,6,2023,AM,"3,044,328.00","3,159,325.00",59, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,6,2023,AM,"2,038,300.00","2,096,051.00",24.66, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,6,2023,AM,"1,798,743.00","1,849,647.80",23.65, MA 
+SR54,Mata Plátano,,6,2023,AM,"223,571.30","244,964.78",9.55, MA 
+BM25,"Sacramento 3""",,6,2023,AM,"207,292.00","220,570.00",5.58,
+SM58,Tanque Chilillal Rebombeo,,6,2023,AM,"14,732.00","15,474.70", FOP ,
+SPM01,"Pozo Miraflores        ( 8"" )",,7,2023,AM,"3,482,162.00","3,522,859.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,7,2023,AM,"6,422,149.00","6,547,350.00",51.7, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,7,2023,AM,"13,710.00","18,427.00", FOP , MA 
+HM07,Pozo Real Santamaría,,7,2023,AM,"18,420,088.00","18,558,821.00",72.57, MA 
+HM17,"Pozo Trebol (8"")",,7,2023,AM,"5,468,117.00","5,621,652.00",73.4, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,7,2023,AM,"1,034,313.10","1,048,100.30", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,7,2023,AM,"4,732,675.00","4,810,506.00",33.6, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,7,2023,PM,"156,777.00","156,777.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,7,2023,PM,"135,777.00","135,777.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,7,2023,AM,"552,808.50","667,864.52",47.16, MA 
+HM22,Medidor para venta de agua Malinches,,7,2023,AM,"1,030.18","1,030.18",, MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,7,2023,AM,"2,766,972.25","2,974,730.13",83.69, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,7,2023,AM,"1,767,573.00","2,004,659.00",106.32, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,7,2023,AM,"6,937,389.00","7,047,410.00",48.6, MA 
+HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,7,2023,AM, FOP ,, FOP , MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,7,2023,AM,"1,673,814.00","1,736,799.00", FOP , MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",,7,2023,AM,"544,579.00","574,948.00",13.05, MA 
+SRM37,Pozo Los Altos II ,,7,2023,AM,"2,160,007.70","2,226,717.70",29.65, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,7,2023,AM,"591,199.00","608,359.00", FOP , MA 
+SRM26,Pozo Joya 1,,7,2023,AM,"640,082.31","652,749.78",5.27, MA 
+SRM33,Pozo Joya 2,,7,2023,AM,"3,792,630.00","3,846,999.60",23.93, MA 
+HM13,"Pozo Joya 3 (8"")",,7,2023,AM,"2,997,063.00","3,067,294.00",34.9, MA 
+SRM30,"Pozo Santiago ( 8"" )",,7,2023,AM,"2,054,069.00","2,088,198.00", FOP , MA 
+SRM25,"Pozo Burial       ( 6"" )",,7,2023,AM,"2,096,373.00","2,156,221.00",31.5, MA 
+SRM12,"Pozo Highland Ranch (3"")",Macromedidor en mal estado,7,2023,AM, FOP ,,11.9, MA 
+SIM04,Pozo Santa Cruz I        ,,7,2023,AM,"1,826,277.80","1,832,144.70", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,7,2023,AM,"660,157.05","727,710.16",45.06, MA 
+,Pozo Vilaseca,,7,2023,AM,"295,550.67","310,044.83", FOP , MA 
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,7,2023,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,7,2023,AM,"883,091.00","909,603.00",6.91, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,7,2023,AM,"1,100,050.00","1,119,702.00",7.53, MA 
+SIM14,"Limpieza Tanque Victoria 8""",,7,2023,AM,"19,829.00","19,829.00", FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,7,2023,AM,"1,799,537.00","1,844,307.00", FOP , MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,7,2023,AM,"978,782.70","990,400.07",20.38, MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,7,2023,AM,"20,793.33","20,985.97",0.17, MA 
+PEND,"Victoria Saliendo 6""",,7,2023,AM,"2,298,303.00","2,386,085.00",40.53, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,7,2023,AM,"645,128.00","647,187.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,7,2023,AM,"604,288.00","618,381.00",1.15, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,7,2023,AM,"584,390.00","597,641.00",1.13, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,7,2023,AM,"242,261.00","242,261.00", FOP , MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,7,2023,AM,"152,323.00","168,617.00", FOP , MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,7,2023,AM,"225,923.00",,, MA 
+SRM51,Breña Mora Entrada Planta,,7,2023,AM,"1,766,082.10","1,802,200.40",12.9, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,7,2023,?,"1,552,954.70","1,584,899.20",21.6, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,7,2023,?,"225,923.00","235,517.00", FOP , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,7,2023,?,"18,049.00","18,057.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,7,2023,?,"30,664.00","31,386.00",0.9, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,7,2023,?,"464,679.00","498,241.00",15.57, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,7,2023,?,"1,676,786.00","1,722,815.00",1.19, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,7,2023,?,"1,902,603.00","1,965,078.00",32.72, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,7,2023,AM,"1,389,783.00","1,414,777.00",13.58, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,7,2023,AM,"4,335,824.00","4,393,886.00",30.56, MA 
+SIM17,Cementerio  Bunt Planet,,7,2023,AM,"1,029,636.50","1,051,094.30",9.66, MA 
+SIM18,Mas x Menos Bunt Planet,,7,2023,AM,"1,641,447.40","1,680,758.80",17.1, MA 
+SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,7,2023,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,7,2023,AM,"683,434.00","707,859.00",7.44, MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,7,2023,AM,"2,900,592.00","2,974,595.00",23.25, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,7,2023,AM,"1,874,281.00","1,920,401.00",16.73, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,7,2023,AM,"503,222.00","544,062.00",7.92, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,7,2023,AM,"3,397,170.00","3,515,494.00",33.2, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Macromedidor en mal estado,7,2023,AM,"1,712,461.00",,, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,7,2023,AM,"12,588,312.00","12,739,196.00",86.4, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,7,2023,AM,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",Macromedidor en mal estado,7,2023,AM,"184,128.50","1,251,177.60",16.09, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,7,2023,,,,, MA 
+,Iris Hernández,,7,2023,AM,"669,304.00","721,662.00",11.42, M1  
+PEND,Derivación ASADA San Pedro de Barva,,7,2023,,,,, M2  
+BM09,Botho Steinvorth,,7,2023,AM,"3,606,349.60","3,666,269.70",20.54, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,7,2023,AM,"2,306,051.00","2,343,336.00",7.91, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,7,2023,AM,"6,620,374.40","6,777,825.00",66.93, MA 
+,29 Catarata,,7,2023,AM,"477,611.00","516,031.00",12.73,
+BM16,Arrieta,,7,2023,AM,"4,538,774.20","4,612,253.10",26.53, MA 
+,La Anexa,,7,2023,AM,"285,427.00","300,787.00",5.61, M1 
+BM03,Carlos Steinvorth,,7,2023,AM,"4,040,244.00","4,082,977.00",13.55, MA 
+,29 A,,7,2023,AM,"114,537.00","114,537.00",9.07, M1 
+BM14,Sacramento,,7,2023,AM,"3,869,991.00","3,932,977.00",25.05, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,7,2023,AM,"224,405.00","226,967.00",1.4, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,7,2023,AM,"12,631,809.00","12,871,205.00",80.56, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,7,2023,AM,"6,641,310.00","6,707,004.00",27.28, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,7,2023,AM,"8,005,003.00","8,042,893.00",12.07, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,7,2023,AM,"10,152,773.00","10,407,234.00",85.5, MA 
+BM10,"El Higueron 8""  (6"")",,7,2023,AM,"7,732,633.00","7,821,160.00",38.78, MA 
+BM11,"LA Gemela #1 (6"")",,7,2023,AM,"4,090,831.00","4,106,121.00",6.81, MA 
+BM12,"LA Gemela #2  (6"")",,7,2023,AM,"7,185,033.00","7,265,329.00",40.28, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,7,2023,AM,,,17.34, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,7,2023,AM,"482,125.00","555,056.00",26.76, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,7,2023,AM,"3,159,325.00","3,322,449.00",55.06, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,7,2023,PM,"2,096,051.00","2,159,530.00",23.57, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,7,2023,PM,"1,849,647.80","1,907,488.00",22.7, MA 
+SR54,Mata Plátano,,7,2023,AM,"244,964.78","270,657.00",4.02, MA 
+BM25,"Sacramento 3""",,7,2023,AM,"220,570.00","234,736.00",5.33,
+SM58,Tanque Chilillal Rebombeo,,7,2023,AM,"15,474.70","18,144.00", FOP ,
+SPM01,"Pozo Miraflores        ( 8"" )",,8,2023,PM,"3,522,859.00","3,537,214.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,8,2023,PM,"6,547,350.00","6,677,432.00",50.2, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,8,2023,PM,"18,427.00","18,433.00", -   , MA 
+HM07,Pozo Real Santamaría,,8,2023,PM,"18,558,821.00","18,618,896.00",71.37, MA 
+HM17,"Pozo Trebol (8"")",,8,2023,PM,"5,621,652.00","5,743,350.00",70.5, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,8,2023,PM,"1,048,100.30","1,067,395.70",19.74, MA 
+HM12,"Pozo Granada ( 10"" )",,8,2023,AM,"4,810,506.00","4,894,207.00",35.5, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,8,2023,AM,"156,777.00","156,774.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,8,2023,AM,"135,777.00","135,781.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,8,2023,AM,"667,864.52","778,049.64",47, MA 
+HM22,Medidor para venta de agua Malinches,,8,2023,AM,"1,030.18","1,060.39",, MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,8,2023,AM,"2,974,730.13","3,196,104.80",83.5, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,8,2023,PM,"2,004,659.00","2,217,538.00",102.76, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,8,2023,AM,"7,047,410.00","7,170,193.00",44.7, MA 
+HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,8,2023,AM,,,, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,8,2023,AM,"1,736,799.00","1,804,674.00",28.79, MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",,8,2023,PM,"574,948.00","590,468.91", FOP , MA 
+SRM37,Pozo Los Altos II ,,8,2023,PM,"2,226,717.70","2,302,215.40",29.54, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,8,2023,PM,"608,359.00","618,023.00",9.28, MA 
+SRM26,Pozo Joya 1,,8,2023,PM,"652,749.78","663,173.26",6, MA 
+SRM33,Pozo Joya 2,,8,2023,PM,"3,846,999.60","3,895,506.20",25.25, MA 
+HM13,"Pozo Joya 3 (8"")",,8,2023,PM,"3,067,294.00","3,142,159.00",34.9, MA 
+SRM30,"Pozo Santiago ( 8"" )",,8,2023,PM,"2,088,198.00","2,154,982.00",30.5, MA 
+SRM25,"Pozo Burial       ( 6"" )",,8,2023,PM,"2,156,221.00","2,168,416.00",31.32, MA 
+SRM12,"Pozo Highland Ranch (3"")",,8,2023,AM,,816.78, FOP , MA 
+SIM04,Pozo Santa Cruz I        ,,8,2023,AM,"1,832,144.70","1,839,220.10", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,8,2023,AM,"727,710.16","802,184.55",44.79, MA 
+,Pozo Vilaseca,,8,2023,AM,"310,044.83","333,804.84",54.84, MA 
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,8,2023,AM,,"9,586.49",33.09,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,8,2023,PM,"909,603.00","932,247.00",4.64, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,8,2023,PM,"1,119,702.00","1,140,934.00",6.11, MA 
+SIM14,"Limpieza Tanque Victoria 8""",,8,2023,PM,"19,829.00","19,829.00", -   , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,8,2023,PM,"1,844,307.00","1,887,057.00",29.15, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,8,2023,PM,"990,400.07","1,005,587.80",16.2, MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,8,2023,PM,"20,985.97","21,193.22", -   , MA 
+PEND,"Victoria Saliendo 6""",,8,2023,PM,"2,386,085.00","2,484,653.00",37.77, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,8,2023,PM,"347,187.00","356,022.00",15.37, MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,8,2023,PM,"618,381.00","628,929.00", -   , MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,8,2023,PM,"597,641.00","607,688.00", -   , MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,8,2023,PM,"242,261.00","244,080.00", -   , MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,8,2023,PM,"168,617.00","177,209.00", -   , MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,8,2023,,,,, MA 
+SRM51,Breña Mora Entrada Planta,,8,2023,AM,"1,802,200.40","1,837,082.00",9.4, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,8,2023,AM,"1,584,899.20","1,617,164.00",21.9, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,8,2023,AM,"235,517.00","245,771.00", -   , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,8,2023,AM,"18,057.00","18,214.00", -   , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,8,2023,AM,"31,386.00","32,124.00", -   , MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,8,2023,AM,"498,241.00","545,683.00",15.49, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,8,2023,AM,"1,722,815.00","1,743,000.00", -   , MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,8,2023,AM,"1,965,078.00","2,030,441.00",30.63, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,8,2023,AM,"1,414,777.00","1,441,853.00",11.7, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,8,2023,AM,"4,393,886.00","4,455,340.00",27.93, MA 
+SIM17,Cementerio  Bunt Planet,,8,2023,AM,"1,051,094.30","1,071,276.00",8.09, MA 
+SIM18,Mas x Menos Bunt Planet,,8,2023,AM,"1,680,758.80",,, MA 
+SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,8,2023,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,8,2023,AM,"707,859.00","726,906.00", FOP , MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,8,2023,AM,"2,974,595.00","3,028,638.00",10.08, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,8,2023,AM,"1,920,401.00","1,954,971.00",10.54, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,8,2023,AM,"544,062.00","572,861.00",11.99, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,8,2023,AM,"3,515,494.00","3,611,063.00",21.45, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Macromedidor en mal estado,8,2023,AM,,"1,854,122.00",61.17, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,8,2023,AM,"12,739,196.00","12,931,832.00",64.28, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,8,2023,,,"579,299.89", -   , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,8,2023,AM,"1,251,177.60","12,875,014.00",15.19, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,8,2023,,,,, MA 
+,Iris Hernández,,8,2023,AM,"721,662.00","758,175.00",11.43, M1  
+PEND,Derivación ASADA San Pedro de Barva,,8,2023,,,,, M2  
+BM09,Botho Steinvorth,,8,2023,AM,"3,666,269.70","3,707,082.10",12.65, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,8,2023,AM,"2,343,336.00","2,370,187.00",11.54, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,8,2023,AM,"6,777,825.00","6,932,079.40",45.96, MA 
+,29 Catarata,,8,2023,AM,"516,031.00","542,106.00",5.5,
+BM16,Arrieta,,8,2023,AM,"4,612,253.10","4,685,749.10",24.46, MA 
+,La Anexa,,8,2023,AM,"300,787.00","316,440.70",5.29, M1 
+BM03,Carlos Steinvorth,,8,2023,AM,"4,082,977.00","4,124,844.90",14.77, MA 
+,29 A,,8,2023,AM,"114,537.00","116,273.00",16.22, M1 
+BM14,Sacramento,,8,2023,AM,"3,932,977.00","3,996,630.00",22.96, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,8,2023,PM,"226,967.00","229,299.00",0.85, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,8,2023,PM,"12,871,205.00","13,050,790.00",75.03, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,8,2023,AM,"6,707,004.00","6,768,453.00",17.76, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,8,2023,AM,"8,042,893.00","8,077,837.00",12.95, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,8,2023,AM,"10,407,234.00","10,617,759.00",78.2, MA 
+BM10,"El Higueron 8""  (6"")",,8,2023,AM,"7,821,160.00","7,921,334.00",34.41, MA 
+BM11,"LA Gemela #1 (6"")",,8,2023,AM,"4,106,121.00","4,124,821.00",6.97, MA 
+BM12,"LA Gemela #2  (6"")",,8,2023,AM,"7,265,329.00","7,362,777.00",30.06, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,8,2023,PM,,,21.48, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,8,2023,AM,"555,056.00","627,039.00",27.56, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,8,2023,AM,"3,322,449.00","3,456,598.00",52.5, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,8,2023,AM,"2,159,530.00","2,226,917.00",26.9, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,8,2023,AM,"1,907,488.00","1,969,171.00",26.63, MA 
+SR54,Mata Plátano,,8,2023,AM,"270,657.00","283,373.29",3.93, MA 
+BM25,"Sacramento 3""",,8,2023,AM,"234,736.00","248,666.50",5.39,
+SM58,Tanque Chilillal Rebombeo,,8,2023,PM,"18,144.00","22,177.00", FOP ,
+SPM01,"Pozo Miraflores        ( 8"" )",,9,2023,AM,"3,537,214.00","3,620,765.00",53, MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,9,2023,AM,"6,677,432.00","6,815,835.00",52.1, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,9,2023,PM,"18,433.00","18,433.00", FOP , MA 
+HM07,Pozo Real Santamaría,,9,2023,PM,"18,618,896.00","18,801,153.00",62.5, MA 
+HM17,"Pozo Trebol (8"")",,9,2023,AM,"5,743,350.00","5,927,534.00",70.3, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,9,2023,AM,"1,067,395.70","1,077,995.58", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,9,2023,AM,"4,894,207.00","4,980,422.00",32.6, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,9,2023,AM,"156,774.00","156,775.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,9,2023,AM,"135,781.00","135,781.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,9,2023,AM,"778,049.64","901,606.75",47, MA 
+HM22,Medidor para venta de agua Malinches,,9,2023,AM,"1,060.39","1,060.39", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,9,2023,AM,"3,196,104.80","3,419,302.54",83.9, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,9,2023,AM,"2,217,538.00","2,481,813.00",105.32, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,9,2023,AM,"7,170,193.00","7,289,175.00",45, MA 
+HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,9,2023,AM,,,, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,9,2023,AM,"1,804,674.00","1,877,358.00",28.65, MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Macromedidor en mal estado,9,2023,AM,"590,468.91",,12.61, MA 
+SRM37,Pozo Los Altos II ,,9,2023,AM,"2,302,215.40","2,381,522.00",30.01, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,9,2023,AM,"618,023.00","640,551.00",8.21, MA 
+SRM26,Pozo Joya 1,Macromedidor en mal estado,9,2023,PM,"663,173.26","678,019.07",5.95, MA 
+SRM33,Pozo Joya 2,,9,2023,PM,"3,895,506.20","3,962,603.30",25.46, MA 
+HM13,"Pozo Joya 3 (8"")",,9,2023,PM,"3,142,159.00","3,234,084.00",34.9, MA 
+SRM30,"Pozo Santiago ( 8"" )",,9,2023,AM,"2,154,982.00","2,229,219.00",30.7, MA 
+SRM25,"Pozo Burial       ( 6"" )",,9,2023,AM,"2,168,416.00","2,238,329.00",31.53, MA 
+SRM12,"Pozo Highland Ranch (3"")",,9,2023,AM,816.78,"20,300.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,,9,2023,PM,"1,839,220.10","1,850,224.40", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,9,2023,PM,"802,184.55","876,933.95",44.9, MA 
+,Pozo Vilaseca,,9,2023,PM,"333,804.84","357,995.59", FOP , MA 
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,9,2023,,"9,586.49",,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,9,2023,PM,"932,247.00","958,029.00",12.04, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,9,2023,PM,"1,140,934.00","1,161,104.00",8.26, MA 
+SIM14,"Limpieza Tanque Victoria 8""",,9,2023,PM,"19,829.00","19,829.00", -   , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,9,2023,PM,"1,887,057.00","1,930,916.00",29.05, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,9,2023,PM,"1,005,587.80","1,016,792.90", -   , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,9,2023,PM,"21,193.22","21,375.51", -   , MA 
+PEND,"Victoria Saliendo 6""",,9,2023,PM,"2,484,653.00","2,578,466.00",36.74, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,9,2023,PM,"356,022.00","364,135.00", -   , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,9,2023,PM,"628,929.00","638,878.00",5.92, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,9,2023,PM,"607,688.00","616,321.00",5.62, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,9,2023,AM,"244,080.00","244,080.00", -   , MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,9,2023,AM,"177,209.00","186,870.00",2.39, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,9,2023,,,,, MA 
+SRM51,Breña Mora Entrada Planta,,9,2023,AM,"1,837,082.00","1,871,805.40",14.5, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,9,2023,AM,"1,617,164.00","1,645,754.70",21.9, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,9,2023,AM,"245,771.00","254,535.00", -   , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,9,2023,AM,"18,214.00","18,658.00", -   , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,9,2023,AM,"32,124.00","32,783.00",1.07, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,9,2023,AM,"545,683.00","585,101.00",15.67, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,9,2023,AM,"1,743,000.00","1,773,591.00",5.99, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,9,2023,AM,"2,030,441.00","2,095,938.00",33.45, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,9,2023,AM,"1,441,853.00","1,468,096.00",14.35, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,9,2023,AM,"4,455,340.00","4,516,085.00",32.76, MA 
+SIM17,Cementerio  Bunt Planet,,9,2023,PM,"1,071,276.00","1,091,473.40",7.99, MA 
+SIM18,Mas x Menos Bunt Planet,,9,2023,PM,,"1,725,500.60",16.25, MA 
+SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,9,2023,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,9,2023,PM,"726,906.00","742,660.00",8.95, MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,9,2023,AM,"3,028,638.00","3,089,469.00",24.77, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,9,2023,AM,"1,954,971.00","1,993,231.00",16.19, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,9,2023,AM,"572,861.00","613,331.00",11:12, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,9,2023,AM,"3,611,063.00","3,712,400.00",20.53, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,9,2023,AM,"1,854,122.00","1,989,520.00",47.9, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,9,2023,AM,"12,931,832.00","13,103,560.00",82.2, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,9,2023,AM,"579,299.89","579,299.80", -   , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,9,2023,AM,"12,875,014.00","13,239,714.00",16.17, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,9,2023,,,,, MA 
+,Iris Hernández,,9,2023,AM,"758,175.00","792,979.00",12.54, M1  
+PEND,Derivación ASADA San Pedro de Barva,,9,2023,,,,, M2  
+BM09,Botho Steinvorth,,9,2023,AM,"3,707,082.10","3,745,455.90",16.85, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,9,2023,AM,"2,370,187.00","2,399,405.00",9.01, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,9,2023,AM,"6,932,079.40","7,077,067.60",64.13, MA 
+,29 Catarata,,9,2023,AM,"542,106.00","565,457.00",9.7,
+BM16,Arrieta,,9,2023,AM,"4,685,749.10","4,758,412.90",24.56, MA 
+,La Anexa,,9,2023,AM,"316,440.70","332,327.00",6.16, M1 
+BM03,Carlos Steinvorth,,9,2023,AM,"4,124,844.90","4,163,633.30",20.73, MA 
+,29 A,,9,2023,AM,"116,273.00","123,152.00",16.37, M1 
+BM14,Sacramento,,9,2023,AM,"3,996,630.00","4,057,376.00",21.5, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,9,2023,AM,"229,299.00","231,451.00",0.84, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,9,2023,AM,"13,050,790.00","13,208,203.00",64.05, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,9,2023,AM,"6,768,453.00","682,764.40",23.55, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,9,2023,AM,"8,077,837.00","8,112,361.00",12.81, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,9,2023,AM,"10,617,759.00","10,818,641.00",79.7, MA 
+BM10,"El Higueron 8""  (6"")",,9,2023,AM,"7,921,334.00","8,016,253.00",31.9, MA 
+BM11,"LA Gemela #1 (6"")",,9,2023,AM,"4,124,821.00","4,143,758.00",6.55, MA 
+BM12,"LA Gemela #2  (6"")",,9,2023,AM,"7,362,777.00","7,442,326.00",32.32, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,9,2023,PM,,,15.09, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,9,2023,AM,"627,039.00","703,978.00",28.57, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,9,2023,AM,"3,456,598.00","3,584,187.00",51, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,9,2023,AM,"2,226,917.00","2,296,546.00",26.92, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,9,2023,AM,"1,969,171.00","2,032,616.00",11.54, MA 
+SR54,Mata Plátano,,9,2023,AM,"283,373.29","300,321.62",5.58, MA 
+BM25,"Sacramento 3""",,9,2023,AM,"248,666.50","262,954.00",5.29,
+SPM01,"Pozo Miraflores        ( 8"" )",,10,2023,PM,"3,620,765.00","3,681,971.00",54, MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,10,2023,PM,"6,815,835.00","6,937,581.00",51.1, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,10,2023,PM,"18,433.00","18,433.00", FOP , MA 
+HM07,Pozo Real Santamaría,,10,2023,PM,"18,801,153.00","18,947,989.00",63.21, MA 
+HM17,"Pozo Trebol (8"")",,10,2023,PM,"5,927,534.00","6,079,287.00",73.6, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,10,2023,PM,"1,077,995.58","1,091,492.60", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,10,2023,AM,"4,980,422.00","5,057,135.00",32.8, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,10,2023,AM,"156,775.00","156,777.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,10,2023,AM,"135,781.00","135,781.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,10,2023,AM,"901,606.75","991,489.00",47.99, MA 
+HM22,Medidor para venta de agua Malinches,,10,2023,AM,"1,060.39","1,060.39", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,10,2023,AM,"3,419,302.54","3,626,719.34",84.5, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,10,2023,AM,"2,481,813.00","2,736,705.00",102.43, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,10,2023,AM,"7,289,175.00","7,398,937.00",44.4, MA 
+HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,10,2023,AM,,,, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,10,2023,AM,"1,877,358.00","1,911,625.00", FOP , MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Macromedidor en mal estado,10,2023,AM,"590,468.91",, FOP , MA 
+SRM37,Pozo Los Altos II ,,10,2023,AM,"2,381,522.00","2,427,485.80", FOP , MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,10,2023,AM,"640,551.00","651,899.00", FOP , MA 
+SRM26,Pozo Joya 1,Macromedidor en mal estado,10,2023,AM,"678,019.07","680,882.41", FOP , MA 
+SRM33,Pozo Joya 2,,10,2023,AM,"3,962,603.30","3,975,314.60", FOP , MA 
+HM13,"Pozo Joya 3 (8"")",,10,2023,AM,"3,234,084.00","3,254,225.00", FOP , MA 
+SRM30,"Pozo Santiago ( 8"" )",,10,2023,AM,"2,229,219.00","2,276,870.00", FOP , MA 
+SRM25,"Pozo Burial       ( 6"" )",,10,2023,AM,"2,238,329.00","2,285,929.00",30.52, MA 
+SRM12,"Pozo Highland Ranch (3"")",,10,2023,AM,"20,300.00","20,781.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,,10,2023,PM,"1,850,224.40","1,853,186.60", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,10,2023,PM,"876,933.95","938,895.65",44.88, MA 
+,Pozo Vilaseca,,10,2023,PM,"357,995.59","366,082.88", FOP , MA 
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,10,2023,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,10,2023,PM,"958,029.00","986,092.00",10.64, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,10,2023,PM,"1,161,104.00","1,181,137.00",8.55, MA 
+SIM14,"Limpieza Tanque Victoria 8""",,10,2023,PM,"19,829.00", FOP , FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,10,2023,PM,"1,930,916.00","1,975,603.00", FOP , MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,10,2023,PM,"1,016,792.90","10,216,120.00", FOP , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,10,2023,PM,"21,375.51","21,542.50", FOP , MA 
+PEND,"Victoria Saliendo 6""",,10,2023,PM,"2,578,466.00", FOP , FOP , MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,10,2023,PM,"364,135.00","367,096.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,10,2023,PM,"638,878.00","654,698.00",7.17, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,10,2023,PM,"616,321.00","631,712.00",6.96, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,10,2023,PM,"244,080.00", XXXX ,1.41, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,10,2023,PM,"186,870.00","196,424.00",6.29, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,10,2023,AM,,"226,895.00", FOP , MA 
+SRM51,Breña Mora Entrada Planta,,10,2023,AM,"1,871,805.40","1,906,704.70",14.4, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,10,2023,AM,"1,645,754.70","1,676,450.60",21.6, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,10,2023,AM,"254,535.00","266,895.00", FOP , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,10,2023,AM,"18,658.00","18,824.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,10,2023,AM,"32,783.00","33,378.00",0.55, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,10,2023,AM,"585,101.00","619,048.00",13.94, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,10,2023,AM,"1,773,591.00","1,809,636.00",5.66, MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,10,2023,AM,"2,095,938.00","2,155,804.00",38.51, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,10,2023,PM,"1,468,096.00", XXXX ,6.96, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,10,2023,PM,"4,516,085.00","4,568,981.00",, MA 
+SIM17,Cementerio  Bunt Planet,,10,2023,PM,"1,091,473.40", XXXX ,, MA 
+SIM18,Mas x Menos Bunt Planet,,10,2023,AM,"1,725,500.60", XXXX ,, MA 
+SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,10,2023,AM,,"1,906,704.70",14.4, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,10,2023,AM,"742,660.00", XXXX ,21.6, MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,10,2023,AM,"3,089,469.00", XXXX , FOP , MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,10,2023,AM,"1,993,231.00", XXXX , FOP , MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,10,2023,AM,"613,331.00", XXXX ,0.55, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,10,2023,AM,"3,712,400.00", XXXX ,, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,10,2023,AM,"1,989,520.00", XXXX ,, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,10,2023,AM,"13,103,560.00", XXXX ,, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,10,2023,PM,"579,299.80","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,10,2023,PM,"13,239,714.00","13,564,569.00",13.28, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,10,2023,PM,,, FOP , MA 
+,Iris Hernández,,10,2023,PM,"792,979.00","843,207.00",18.66, M1  
+PEND,Derivación ASADA San Pedro de Barva,,10,2023,,,,, M2  
+BM09,Botho Steinvorth,,10,2023,AM,"3,745,455.90","3,799,722.60",29.82, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,10,2023,AM,"2,399,405.00","2,436,780.00",16.81, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,10,2023,AM,"7,077,067.60","7,194,046.90",84.37, MA 
+,29 Catarata,,10,2023,AM,"565,457.00","603,418.00",16.96,
+BM16,Arrieta,,10,2023,AM,"4,758,412.90","4,832,871.00",29.59, MA 
+,La Anexa,,10,2023,AM,"332,327.00","346,274.00",6.17, M1 
+BM03,Carlos Steinvorth,,10,2023,AM,"4,163,633.30","4,203,163.50",21.67, MA 
+,29 A,,10,2023,AM,"123,152.00","123,152.00",15.32, M1 
+BM14,Sacramento,,10,2023,AM,"4,057,376.00","4,122,915.00",30.64, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,10,2023,PM,"231,451.00","233,225.00",0.89, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,10,2023,AM,"13,208,203.00","13,463,718.00",128.21, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,10,2023,AM,"6,827,644.00","6,880,024.00",19.37, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,10,2023,AM,"8,112,361.00","8,142,840.00",12.33, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,10,2023,AM,"10,818,641.00","11,073,884.00",141.7, MA 
+BM10,"El Higueron 8""  (6"")",,10,2023,AM,"8,016,253.00","8,108,860.00",43.98, MA 
+BM11,"LA Gemela #1 (6"")",,10,2023,AM,"4,143,758.00","4,159,488.00",6.75, MA 
+BM12,"LA Gemela #2  (6"")",,10,2023,AM,"7,442,326.00","7,557,051.00",63.5, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,10,2023,PM,,,84.33, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,10,2023,AM,"703,978.00","768,351.00",26.72, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,10,2023,AM,"3,584,187.00","3,726,435.00",68.5, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,10,2023,AM,"2,296,546.00","2,356,943.00",24.84, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,10,2023,AM,"2,032,616.00","2,087,046.00",23.87, MA 
+SR54,Mata Plátano,,10,2023,AM,"300,321.62","339,851.62",9.07, MA 
+BM25,"Sacramento 3""",,10,2023,AM,"262,954.00","275,554.00",5.29,
+SPM01,"Pozo Miraflores        ( 8"" )",,11,2023,PM,"3,681,971.00","3,722,976.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,11,2023,PM,"6,937,581.00","7,073,370.00",51.6, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,11,2023,PM,"18,433.00","18,434.00", FOP , MA 
+HM07,Pozo Real Santamaría,,11,2023,PM,"18,947,989.00","19,121,847.00",66.09, MA 
+HM17,"Pozo Trebol (8"")",,11,2023,PM,"6,079,287.00","6,246,048.00",70.6, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,11,2023,PM,"1,091,492.60","1,110,479.60", FOP , MA 
+HM12,"Pozo Granada ( 10"" )",,11,2023,PM,"5,057,135.00","5,140,276.00",32.2, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,11,2023,PM,"156,777.00","156,777.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,11,2023,PM,"135,781.00","135,783.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,11,2023,,"991,489.00", FOP , FOP , MA 
+HM22,Medidor para venta de agua Malinches,,11,2023,PM,"1,060.39","1,060.39", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,11,2023,PM,"3,626,719.34","3,846,832.37",84.22, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,11,2023,PM,"2,736,705.00","2,965,670.00",103.06, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,11,2023,PM,"7,398,937.00","7,515,586.00",44.8, MA 
+HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,11,2023,PM,,"23,134.00", FOP , MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,11,2023,PM,"1,911,625.00","1,911,746.00", FOP , MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Macromedidor en mal estado,11,2023,PM,,, FOP , MA 
+SRM37,Pozo Los Altos II ,,11,2023,PM,"2,427,485.80","2,427,660.30", FOP , MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,11,2023,PM,"651,899.00","651,933.00", FOP , MA 
+SRM26,Pozo Joya 1,Macromedidor en mal estado,11,2023,PM,"680,882.41","680,894.80", FOP , MA 
+SRM33,Pozo Joya 2,,11,2023,PM,"3,975,314.60","3,975,349.00", FOP , MA 
+HM13,"Pozo Joya 3 (8"")",,11,2023,PM,"3,254,225.00","3,254,289.00", FOP , MA 
+SRM30,"Pozo Santiago ( 8"" )",,11,2023,PM,"2,276,870.00","2,324,283.00", FOP , MA 
+SRM25,"Pozo Burial       ( 6"" )",,11,2023,AM,"2,285,929.00","2,298,125.00", FOP , MA 
+SRM12,"Pozo Highland Ranch (3"")",,11,2023,,"20,781.00","20,988.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,,11,2023,AM,"1,853,186.60","1,858,091.70", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,11,2023,AM,"938,895.65",, FOP , MA 
+,Pozo Vilaseca,,11,2023,AM,"366,082.88",, FOP , MA 
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,11,2023,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,11,2023,AM,"986,092.00","1,015,398.00",11.68, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,11,2023,AM,"1,181,137.00","1,203,274.00",8.39, MA 
+SIM14,"Limpieza Tanque Victoria 8""",,11,2023,, FOP ,, FOP , MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,11,2023,AM,"1,975,603.00","2,024,216.00",29.63, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,11,2023,AM,"10,216,120.00","10,259,585.00", FOP , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,11,2023,AM,"21,542.50","21,730.38",0.09, MA 
+PEND,"Victoria Saliendo 6""",,11,2023,AM, FOP ,"2,671,696.00",40.04, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,11,2023,AM,"367,096.00","369,845.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,11,2023,AM,"654,698.00","674,333.00",8.49, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,11,2023,AM,"631,712.00","650,029.00",8.44, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,11,2023,AM, XXXX , XXXXX ,1.95, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,11,2023,AM,"196,424.00","211,057.00",6.3, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,11,2023,AM,"226,895.00","278,704.00",16, MA 
+SRM51,Breña Mora Entrada Planta,,11,2023,AM,"1,906,704.70","1,944,655.00",14.5, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,11,2023,AM,"1,676,450.60","1,711,215.30",21.6, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,11,2023,,"266,895.00",,, MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,11,2023,,"18,824.00","18,869.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,11,2023,,"33,378.00","34,064.00",1.4, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,11,2023,,"619,048.00","655,633.00",15.18, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,11,2023,,"1,809,636.00","1,850,613.00", FOP , MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,11,2023,,"2,155,804.00","2,216,909.00",31.58, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,11,2023,AM, XXXX ,"1,508,614.00",13.32, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,11,2023,AM,"4,568,981.00","4,622,584.00",30.45, MA 
+SIM17,Cementerio  Bunt Planet,,11,2023,AM, XXXX ,"1,131,151.70",12.8, MA 
+SIM18,Mas x Menos Bunt Planet,,11,2023,AM, XXXX ,"1,795,017.20",15.85, MA 
+SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,11,2023,,"1,906,704.70",,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,11,2023,AM, XXXX ,"779,903.00", FOP , MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,11,2023,AM, XXXX ,"3,225,771.00",27.4, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,11,2023,AM, XXXX ,"2,075,506.00",11.06, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,11,2023,AM, XXXX ,"681,065.00",14.34, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,11,2023,AM, XXXX ,"3,945,480.00",37.22, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,11,2023,PM, XXXX ,"2,342,319.00",65.52, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,11,2023,PM, XXXX ,"13,339,262.00",91.59, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,11,2023,,"579,299.89","579,299.89", FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,11,2023,PM,"13,564,569.00","13,904,377.00",14.66, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,11,2023,,,,, MA 
+,Iris Hernández,,11,2023,AM,"843,207.00","900,357.00",21.08, M1  
+PEND,Derivación ASADA San Pedro de Barva,,11,2023,,,,, M2  
+BM09,Botho Steinvorth,,11,2023,AM,"3,799,722.60","3,869,885.40",27.24, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,11,2023,AM,"2,436,780.00","2,482,864.00",16.24, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,11,2023,AM,"7,194,046.90","7,344,543.30",97.91, MA 
+,29 Catarata,,11,2023,AM,"603,418.00","649,787.00",17.57,
+BM16,Arrieta,,11,2023,AM,"4,832,871.00","4,929,847.20",35.3, MA 
+,La Anexa,,11,2023,AM,"346,274.00","361,725.00",6.32, M1 
+BM03,Carlos Steinvorth,,11,2023,AM,"4,203,163.50","4,251,773.00",19, MA 
+,29 A,,11,2023,AM,"123,152.00","123,153.00",16.59, M1 
+BM14,Sacramento,,11,2023,AM,"4,122,915.00","4,205,565.00",31.4, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,11,2023,PM,"233,225.00","235,392.00",0.79, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,11,2023,PM,"13,463,718.00","13,805,947.00",131.08, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,11,2023,PM,"6,880,024.00","6,940,932.00",24.94, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,11,2023,PM,"8,142,840.00","8,174,397.00",10.35, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,11,2023,PM,"11,073,884.00","11,375,302.00",128.6, MA 
+BM10,"El Higueron 8""  (6"")",,11,2023,PM,"8,108,860.00","8,241,273.00",47.39, MA 
+BM11,"LA Gemela #1 (6"")",,11,2023,PM,"4,159,488.00","4,181,352.00",8.69, MA 
+BM12,"LA Gemela #2  (6"")",,11,2023,PM,"7,557,051.00","7,720,142.00",61.48, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,11,2023,PM,,,78.48, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,11,2023,PM,"768,351.00","839,136.00",26.95, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,11,2023,AM,"3,726,435.00","3,881,869.00",66.2, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,11,2023,AM,"2,356,943.00","2,427,872.00",24.75, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,11,2023,AM,"2,087,046.00","2,151,113.00",23.65, MA 
+SR54,Mata Plátano,,11,2023,,"339,851.62",,, MA 
+BM25,"Sacramento 3""",,11,2023,AM,"275,554.00","288,938.00",5.82,
+SPM01,"Pozo Miraflores        ( 8"" )",,12,2023,AM,"3,722,976.00","3,797,860.00", FOP , MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,12,2023,AM,"7,073,370.00","7,217,084.00",52.7, MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,12,2023,AM,"18,434.00","18,434.00", FOP , MA 
+HM07,Pozo Real Santamaría,,12,2023,PM,"19,121,847.00","19,308,073.00",70.15, MA 
+HM17,"Pozo Trebol (8"")",,12,2023,PM,"6,246,048.00","6,455,112.00",73.5, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,12,2023,PM,"1,110,479.60","1,120,141.60",25.55, MA 
+HM12,"Pozo Granada ( 10"" )",,12,2023,PM,"5,140,276.00","5,230,253.00",31.1, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,12,2023,PM,"156,777.00","156,924.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,12,2023,PM,"135,783.00","135,783.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,12,2023,PM, FOP ,"193,517.17",47.69, MA 
+HM22,Medidor para venta de agua Malinches,,12,2023,PM,"1,060.39","1,060.39", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,12,2023,PM,"3,846,832.37","4,034,934.19", FOP , M2 
+HM06,"Pozo San Vicente        ( 10"" )",,12,2023,PM,"2,965,670.00",,, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,12,2023,AM,"7,515,586.00","7,641,606.00",46.7, MA 
+HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,12,2023,AM,"23,134.00","23,134.00", FOP , MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,12,2023,AM,"1,911,746.00","1,913,755.00", FOP , MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Macromedidor en mal estado,12,2023,AM,,"192,703.73",13.26, MA 
+SRM37,Pozo Los Altos II ,,12,2023,AM,"2,427,660.30","2,441,928.70",29.88, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,12,2023,AM,"651,933.00","655,251.00",8.75, MA 
+SRM26,Pozo Joya 1,Macromedidor en mal estado,12,2023,AM,"680,894.80","687,569.79", FOP , MA 
+SRM33,Pozo Joya 2,,12,2023,AM,"3,975,349.00","3,994,542.80",27.3, MA 
+HM13,"Pozo Joya 3 (8"")",,12,2023,PM,"3,254,289.00","3,295,177.00",34.7, MA 
+SRM30,"Pozo Santiago ( 8"" )",,12,2023,AM,"2,324,283.00","2,398,075.00",31.9, MA 
+SRM25,"Pozo Burial       ( 6"" )",,12,2023,AM,"2,298,125.00","2,317,360.00", FOP , MA 
+SRM12,"Pozo Highland Ranch (3"")",,12,2023,AM,"20,988.00","22,522.00", FOP , MA 
+SIM04,Pozo Santa Cruz I        ,,12,2023,AM,"1,858,091.70","1,864,437.30", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,12,2023,AM,"938,895.65","1,048,900.12",44.88, MA 
+,Pozo Vilaseca,,12,2023,AM,"366,082.88","385,101.96", FOP , MA 
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,12,2023,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,12,2023,AM,"1,015,398.00","1,048,414.00",11.63, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,12,2023,AM,"1,203,274.00","1,226,924.00",8.63, MA 
+SIM14,"Limpieza Tanque Victoria 8""",,12,2023,,,,, MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,12,2023,AM,"2,024,216.00","2,076,894.00",29.82, MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,12,2023,AM,"10,259,585.00","10,308,383.00", FOP , MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,12,2023,AM,"21,730.38","21,958.63", FOP , MA 
+PEND,"Victoria Saliendo 6""",,12,2023,AM,"2,671,696.00","2,769,180.00",38.19, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,12,2023,AM,"369,845.00","374,808.00",18.99, MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,12,2023,AM,"674,333.00","685,496.00",2.4, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,12,2023,AM,"650,029.00","660,401.00",2.34, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,12,2023,AM, XXXXX ,,0.86, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,12,2023,AM,"211,057.00","223,576.00",12.57, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,12,2023,AM,"278,704.00","290,244.00",8.43, MA 
+SRM51,Breña Mora Entrada Planta,,12,2023,AM,"1,944,655.00","1,985,051.90",12.8, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,12,2023,AM,"1,711,215.30","1,747,790.30",20.7, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,12,2023,AM,"266,895.00","266,895.00", FOP , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,12,2023,AM,"18,869.00","19,099.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,12,2023,AM,"34,064.00","34,767.00",1.34, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,12,2023,AM,"655,633.00","689,149.30",10.85, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,12,2023,AM,"1,850,613.00","1,893,143.00", FOP , MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,12,2023,AM,"2,216,909.00","2,288,506.00",38.2, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,12,2023,AM,"1,508,614.00","1,540,394.00",15.6, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,12,2023,AM,"4,622,584.00","4,692,873.30",34.96, MA 
+SIM17,Cementerio  Bunt Planet,,12,2023,AM,"1,131,151.70","1,162,257.70",10.46, MA 
+SIM18,Mas x Menos Bunt Planet,,12,2023,AM,"1,795,017.20","1,833,753.90",14.27, MA 
+SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,12,2023,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,12,2023,AM,"779,903.00","785,669.00", FOP , MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,12,2023,AM,"3,225,771.00","3,302,653.00",, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,12,2023,AM,"2,075,506.00","2,123,721.00",, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,12,2023,AM,"681,065.00","721,686.00",, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,12,2023,AM,"3,945,480.00","4,057,565.00",, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,12,2023,AM,"2,342,319.00","2,520,312.00",, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,12,2023,AM,"13,339,262.00","13,547,901.00",, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,12,2023,AM,"579,299.89", FOP ,, MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,12,2023,AM,"1,390,437.70","1,427,321.50",14.17, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,12,2023,AM,,,, MA 
+,Iris Hernández,,12,2023,AM,"900,357.00","953,304.00",14.61, M1  
+PEND,Derivación ASADA San Pedro de Barva,,12,2023,,,,, M2  
+BM09,Botho Steinvorth,,12,2023,AM,"3,869,885.40","3,925,938.30",15.27, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,12,2023,AM,"2,482,864.00","2,521,267.00",3.31, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,12,2023,AM,"7,344,543.30","7,529,767.50",75.14, MA 
+,29 Catarata,,12,2023,AM,"649,787.00","689,371.00",5.35,
+BM16,Arrieta,,12,2023,AM,"4,929,847.20","5,031,361.30",31.58, MA 
+,La Anexa,,12,2023,AM,"361,725.00","378,156.00",6.61, M1 
+BM03,Carlos Steinvorth,,12,2023,AM,"4,251,773.00","4,311,003.50",19.11, MA 
+,29 A,,12,2023,AM,"123,153.00","123,211.00",5.27, M1 
+BM14,Sacramento,,12,2023,AM,"4,205,565.00","4,293,567.00",30.74, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,12,2023,PM,"235,392.00","237,688.00",0.82, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,12,2023,PM,"13,805,947.00","14,131,347.00",103.1, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,12,2023,AM,"6,940,932.00","7,006,291.00",11.61, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,12,2023,AM,"8,174,397.00","8,201,603.00",9.3, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,12,2023,AM,"11,375,302.00","11,710,474.00",159, MA 
+BM10,"El Higueron 8""  (6"")",,12,2023,AM,"8,241,273.00","8,367,788.00",38.93, MA 
+BM11,"LA Gemela #1 (6"")",,12,2023,AM,"4,181,352.00","4,204,024.00",8.5, MA 
+BM12,"LA Gemela #2  (6"")",,12,2023,AM,"7,720,142.00","7,882,977.00",41.78, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,12,2023,PM,,,74.29, M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,12,2023,AM,"839,136.00","915,891.00",27.63, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",,12,2023,AM,"3,881,869.00","6,881,869.00",60.16, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,12,2023,AM,"2,427,872.00","2,502,316.00",25.16, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,12,2023,AM,"2,151,113.00","2,218,349.00",24.27, MA 
+SR54,Mata Plátano,,12,2023,AM,"339,851.62","394,081.05",1.49, MA 
+BM25,"Sacramento 3""",,12,2023,AM,"288,938.00","302,112.00",4.7,
+SPM01,"Pozo Miraflores        ( 8"" )",Macromedidor en mal estado,1,2024,PM,"3,797,860.00", -   ,52, MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,1,2024,PM,"7,217,084.00","7,348,610.00", FOP , MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,1,2024,PM,"18,434.00","18,434.00", FOP , MA 
+HM07,Pozo Real Santamaría,,1,2024,PM,"19,308,073.00","19,470,167.00",66.24, MA 
+HM17,"Pozo Trebol (8"")",,1,2024,AM,"6,455,112.00","6,644,130.00",68.1, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,1,2024,PM,"1,120,141.60","1,146,232.40",25.44, MA 
+HM12,"Pozo Granada ( 10"" )",,1,2024,PM,"5,230,253.00","5,304,630.00",32.9, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,1,2024,PM,"156,924.00","156,924.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,1,2024,PM,"135,783.00","135,783.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,1,2024,AM,"193,517.17","317,907.26",47.47, MA 
+HM22,Medidor para venta de agua Malinches,,1,2024,AM,"1,060.39","1,098.00", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,1,2024,AM,"4,034,934.19","4,188,251.63",82.02, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,1,2024,PM,,"3,464,682.00",104, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,1,2024,PM,"7,641,606.00","7,739,841.00",47.9, MA 
+HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,1,2024,PM,"23,134.00",,21.02, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,1,2024,PM,"1,913,755.00","1,913,755.00", FOP , MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Macromedidor en mal estado,1,2024,AM,"192,703.73","215,874.66",13.63, MA 
+SRM37,Pozo Los Altos II ,,1,2024,AM,"2,441,928.70","2,518,442.10",29.38, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,1,2024,AM,"655,251.00","673,064.00",8.41, MA 
+SRM26,Pozo Joya 1,Macromedidor en mal estado,1,2024,PM,"687,569.79","699,726.55",6.66, MA 
+SRM33,Pozo Joya 2,,1,2024,PM,"3,994,542.80","4,056,843.10",25.14, MA 
+HM13,"Pozo Joya 3 (8"")",,1,2024,PM,"3,295,177.00","3,383,216.00",34.7, MA 
+SRM30,"Pozo Santiago ( 8"" )",,1,2024,AM,"2,398,075.00","2,476,103.00",31.3, MA 
+SRM25,"Pozo Burial       ( 6"" )",,1,2024,AM,"2,317,360.00","2,392,471.00",30.89, MA 
+SRM12,"Pozo Highland Ranch (3"")",,1,2024,AM,"22,522.00","45,700.00",11.47, MA 
+SIM04,Pozo Santa Cruz I        ,,1,2024,AM,"1,864,437.30","1,869,680.00", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,1,2024,AM,"1,048,900.12","1,149,943.56",46.87, MA 
+,Pozo Vilaseca,,1,2024,AM,"385,101.96","415,802.48", FOP , MA 
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,1,2024,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,1,2024,AM,"1,048,414.00","1,068,655.00",12.21, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,1,2024,AM,"1,226,924.00","1,244,427.00",8.19, MA 
+SIM14,"Limpieza Tanque Victoria 8""",Macromedidor en mal estado,1,2024,,,,, MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,1,2024,AM,"2,076,894.00","2,111,197.00", FOP , MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,1,2024,AM,"1,030,838.30","1,048,074.70",20.26, MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,1,2024,AM,"21,958.63","22,157.74",0.07, MA 
+PEND,"Victoria Saliendo 6""",,1,2024,AM,"2,769,180.00","2,857,092.00",39.24, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,1,2024,AM,"374,808.00","386,735.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,1,2024,AM,"685,496.00","690,524.00",9.03, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,1,2024,AM,"660,401.00","669,765.00",7.56, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,1,2024,AM,,,0.45, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,1,2024,AM,"223,576.00","230,463.00",6.58, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,1,2024,AM,"290,244.00","295,317.00", FOP , MA 
+SRM51,Breña Mora Entrada Planta,,1,2024,AM,"1,985,051.90","2,013,960.50",14.9, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,1,2024,AM,"1,747,790.30","1,773,643.50",21.1, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,1,2024,AM,"266,895.00","295,317.00", FOP , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,1,2024,AM,"19,099.00","19,564.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,1,2024,AM,"34,767.00","35,411.00",0.98, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,1,2024,AM,"689,149.30","716,141.00",9.8, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,1,2024,AM,"1,893,143.00","1,911,413.00", FOP , MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,1,2024,AM,"2,288,506.00","2,355,141.00",34.5, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,1,2024,AM,"1,540,394.00","1,563,788.00",9.54, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,1,2024,AM,"4,692,873.30","4,757,007.00",23.47, MA 
+SIM17,Cementerio  Bunt Planet,,1,2024,AM,"1,162,257.70","1,190,383.90",12.87, MA 
+SIM18,Mas x Menos Bunt Planet,,1,2024,AM,"1,833,753.90","1,868,922.07",15.54, MA 
+SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,1,2024,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,1,2024,AM,"785,669.00","805,617.00",27.6, MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,1,2024,AM,"3,302,653.00","3,350,120.00",25.75, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,1,2024,AM,"2,123,721.00","2,161,246.00",11.09, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,1,2024,AM,"721,686.00","741,486.00",8.47, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,1,2024,AM,"4,057,565.00","4,123,484.00",10.61, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,1,2024,PM,"2,520,312.00","2,644,413.00",37.58, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,1,2024,PM,"13,547,901.00","13,728,355.00",57.63, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,1,2024,PM, FOP , FOP , FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,1,2024,PM,"1,427,321.50","1,467,371.30",15.5, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,1,2024,,,,, MA 
+,Iris Hernández,,1,2024,AM,"953,304.00","979,800.00",6.75, M1  
+PEND,Derivación ASADA San Pedro de Barva,,1,2024,AM,, El Propietario no permite el acceso ,, M2  
+BM09,Botho Steinvorth,,1,2024,AM,"3,925,938.30","3,956,537.70",8.69, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,1,2024,AM,"2,521,267.00","2,548,076.00",10.55, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,1,2024,AM,"7,529,767.50","7,657,785.00",60.95, MA 
+,29 Catarata,,1,2024,AM,"689,371.00","702,272.00",4.85,
+BM16,Arrieta,,1,2024,AM,"5,031,361.30","5,114,538.30",27.33, MA 
+,La Anexa,,1,2024,AM,"378,156.00","393,078.00",4.38, M1 
+BM03,Carlos Steinvorth,,1,2024,AM,"4,311,003.50","4,357,560.80",17.02, MA 
+,29 A,,1,2024,AM,"123,211.00","138,778.00",5.77, M1 
+BM14,Sacramento,,1,2024,AM,"4,293,567.00","4,367,056.00",23.18, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,1,2024,AM,"237,688.00","239,876.00",1.25, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,1,2024,PM,"14,131,347.00","14,317,439.00",57.67, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,1,2024,AM,"7,006,291.00","7,056,348.00",25.08, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,1,2024,AM,"8,201,603.00","8,225,488.00",9.32, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,1,2024,AM,"11,710,474.00","11,935,192.00",56.9, MA 
+BM10,"El Higueron 8""  (6"")",,1,2024,AM,"8,367,788.00","8,462,268.00",31.84, MA 
+BM11,"LA Gemela #1 (6"")",,1,2024,AM,"4,204,024.00","4,211,559.00",7.52, MA 
+BM12,"LA Gemela #2  (6"")",,1,2024,AM,"7,882,977.00","7,974,921.00",30.13, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,1,2024,AM,,, Muy bajo nivel , M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,1,2024,AM,"915,891.00","988,383.00",28.76, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",Macromedidor en mal estado,1,2024,,"6,881,869.00",,, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,1,2024,AM,"2,502,316.00","2,570,874.00",28.09, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,1,2024,AM,"2,218,349.00","2,280,758.00",28.07, MA 
+SR54,Mata Plátano,,1,2024,AM,"394,081.05","405,700.00",1.61, MA 
+BM25,"Sacramento 3""",,1,2024,AM,"302,112.00","311,618.00",4.8,
+SPM01,"Pozo Miraflores        ( 8"" )",Macromedidor en mal estado,2,2024,PM,"3,797,860.00", -   ,52, MA 
+HM26,"Pozo La Esperanza I A ( 6"" )",,2,2024,PM,"7,217,084.00","7,348,610.00", FOP , MA 
+HM15,"Pozo La Esperanza II  ( 6"" )",,2,2024,PM,"18,434.00","18,434.00", FOP , MA 
+HM07,Pozo Real Santamaría,,2,2024,PM,"19,308,073.00","19,470,167.00",66.24, MA 
+HM17,"Pozo Trebol (8"")",,2,2024,AM,"6,455,112.00","6,644,130.00",68.1, MA 
+HM10,"Pozo Monte Alegre ( 6"" )",,2,2024,PM,"1,120,141.60","1,146,232.40",25.44, MA 
+HM12,"Pozo Granada ( 10"" )",,2,2024,PM,"5,230,253.00","5,304,630.00",32.9, MA 
+HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,2,2024,PM,"156,924.00","156,924.00", FOP , MA 
+HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,2,2024,PM,"135,783.00","135,783.00", FOP , MA 
+HM11,"Pozo Malinches   I ( 6"" )",,2,2024,AM,"193,517.17","317,907.26",47.47, MA 
+HM22,Medidor para venta de agua Malinches,,2,2024,AM,"1,060.39","1,098.00", FOP , MA 
+HM14,"Pozo Malinches  II  ( 6"" )",,2,2024,AM,"4,034,934.19","4,188,251.63",82.02, M2 
+HM06,"Pozo San Vicente        ( 10"" )",,2,2024,PM,,"3,464,682.00",104, MA 
+HM18,"Pozo Claretiano         ( 10"" )",,2,2024,PM,"7,641,606.00","7,739,841.00",47.9, MA 
+HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,2,2024,PM,"23,134.00",,21.02, MA 
+BM17,"Pozo Malinches Real  ( 8"" )",,2,2024,PM,"1,913,755.00","1,913,755.00", FOP , MA 
+SRM28,"Pozo Los Altos I  ( 4"" )",Macromedidor en mal estado,2,2024,AM,"192,703.73","215,874.66",13.63, MA 
+SRM37,Pozo Los Altos II ,,2,2024,AM,"2,441,928.70","2,518,442.10",29.38, MA 
+SRM32,"Pozo Matasanos      ( 4"" )",,2,2024,AM,"655,251.00","673,064.00",8.41, MA 
+SRM26,Pozo Joya 1,Macromedidor en mal estado,2,2024,PM,"687,569.79","699,726.55",6.66, MA 
+SRM33,Pozo Joya 2,,2,2024,PM,"3,994,542.80","4,056,843.10",25.14, MA 
+HM13,"Pozo Joya 3 (8"")",,2,2024,PM,"3,295,177.00","3,383,216.00",34.7, MA 
+SRM30,"Pozo Santiago ( 8"" )",,2,2024,AM,"2,398,075.00","2,476,103.00",31.3, MA 
+SRM25,"Pozo Burial       ( 6"" )",,2,2024,AM,"2,317,360.00","2,392,471.00",30.89, MA 
+SRM12,"Pozo Highland Ranch (3"")",,2,2024,AM,"22,522.00","45,700.00",11.47, MA 
+SIM04,Pozo Santa Cruz I        ,,2,2024,AM,"1,864,437.30","1,869,680.00", FOP , MA 
+SIM02,"Pozo Santa Cruz II (8"")",,2,2024,AM,"1,048,900.12","1,149,943.56",46.87, MA 
+,Pozo Vilaseca,,2,2024,AM,"385,101.96","415,802.48", FOP , MA 
+,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,2,2024,,,,,
+SIM12,"Mata Maiz Llegando al Tanque 4""",,2,2024,AM,"1,048,414.00","1,068,655.00",12.21, MA 
+SIM13,"Mata Caña llegando al Tanque 4""",,2,2024,AM,"1,226,924.00","1,244,427.00",8.19, MA 
+SIM14,"Limpieza Tanque Victoria 8""",Macromedidor en mal estado,2,2024,,,,, MA 
+SIM01,"Tanque Succion  tanque Victoria 6""",,2,2024,AM,"2,076,894.00","2,111,197.00", FOP , MA 
+SIM09,"Rebombeo Chizos t. victoria 6""",,2,2024,AM,"1,030,838.30","1,048,074.70",20.26, MA 
+SIM10,"Rebombeo Victoria  hacia el norte 4""",,2,2024,AM,"21,958.63","22,157.74",0.07, MA 
+PEND,"Victoria Saliendo 6""",,2,2024,AM,"2,769,180.00","2,857,092.00",39.24, MA 
+SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",,2,2024,AM,"374,808.00","386,735.00", FOP , MA 
+SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",,2,2024,AM,"685,496.00","690,524.00",9.03, MA 
+SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",,2,2024,AM,"660,401.00","669,765.00",7.56, MA 
+SIM06,"Fuente Yurro Hondo T Chilillal (4"")",,2,2024,AM,,,0.45, MA 
+SIM07,"Fuente Tranqueras T Chilillal (4"")",,2,2024,AM,"223,576.00","230,463.00",6.58, MA 
+SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,2,2024,AM,"290,244.00","295,317.00", FOP , MA 
+SRM51,Breña Mora Entrada Planta,,2,2024,AM,"1,985,051.90","2,013,960.50",14.9, MA 
+SRM50,Breña Mora Salida Planta Tratamiento,,2,2024,AM,"1,747,790.30","1,773,643.50",21.1, MA 
+PEND,Salida Tanque Breña Mora  Tanque San Isidro,,2,2024,AM,"266,895.00","295,317.00", FOP , MA 
+SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",,2,2024,AM,"19,099.00","19,564.00", FOP , MA 
+SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",,2,2024,AM,"34,767.00","35,411.00",0.98, MA 
+SRM19,Entrada Chorreras I a Tanque San Isidro,,2,2024,AM,"689,149.30","716,141.00",9.8, MA 
+SRM18,Entrada Chorreras II a Tanque San Isidro,,2,2024,AM,"1,893,143.00","1,911,413.00", FOP , MA 
+SRM52,"Salida Tanque San Isidro Oeste 6""",,2,2024,AM,"2,288,506.00","2,355,141.00",34.5, MA 
+SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,,2,2024,AM,"1,540,394.00","1,563,788.00",9.54, MA 
+SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,,2,2024,AM,"4,692,873.30","4,757,007.00",23.47, MA 
+SIM17,Cementerio  Bunt Planet,,2,2024,AM,"1,162,257.70","1,190,383.90",12.87, MA 
+SIM18,Mas x Menos Bunt Planet,,2,2024,AM,"1,833,753.90","1,868,922.07",15.54, MA 
+SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,2,2024,,,,, MA 
+SIM53,Entrada al Tanque San Francisco (T4),,2,2024,AM,"785,669.00","805,617.00",27.6, MA 
+SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",,2,2024,AM,"3,302,653.00","3,350,120.00",25.75, MA 
+SRM48,Caja a la Entrada de T Cienega Sur Nuevo,,2,2024,AM,"2,123,721.00","2,161,246.00",11.09, MA 
+SRM49,Caja a la Entrada de T Cienega Sur Nuevo,,2,2024,AM,"721,686.00","741,486.00",8.47, MA 
+SRM11,Tanque ChamacoEntrada del Tirol,,2,2024,AM,"4,057,565.00","4,123,484.00",10.61, MA 
+SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",,2,2024,PM,"2,520,312.00","2,644,413.00",37.58, MA 
+SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",,2,2024,PM,"13,547,901.00","13,728,355.00",57.63, MA 
+SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,2,2024,PM, FOP , FOP , FOP , MA 
+SRM42,"Conducción Noventa a Palmar (4"")",,2,2024,PM,"1,427,321.50","1,467,371.30",15.5, MA 
+SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,2,2024,,,,, MA 
+,Iris Hernández,,2,2024,AM,"953,304.00","979,800.00",6.75, M1  
+PEND,Derivación ASADA San Pedro de Barva,,2,2024,AM,, El Propietario no permite el acceso ,, M2  
+BM09,Botho Steinvorth,,2,2024,AM,"3,925,938.30","3,956,537.70",8.69, MA 
+BM08,Llegada de las 29 al Tanque Steinvorth,,2,2024,AM,"2,521,267.00","2,548,076.00",10.55, MA 
+BM21,"Conducción Flores al Tirol (8"") Saliendo",,2,2024,AM,"7,529,767.50","7,657,785.00",60.95, MA 
+,29 Catarata,,2,2024,AM,"689,371.00","702,272.00",4.85,
+BM16,Arrieta,,2,2024,AM,"5,031,361.30","5,114,538.30",27.33, MA 
+,La Anexa,,2,2024,AM,"378,156.00","393,078.00",4.38, M1 
+BM03,Carlos Steinvorth,,2,2024,AM,"4,311,003.50","4,357,560.80",17.02, MA 
+,29 A,,2,2024,AM,"123,211.00","138,778.00",5.77, M1 
+BM14,Sacramento,,2,2024,AM,"4,293,567.00","4,367,056.00",23.18, MA 
+BM19,"Marin Cañas Electromagnetico 2""",,2,2024,AM,"237,688.00","239,876.00",1.25, MA 
+BM13,"Llegada al Tanque Marin Cañas  ( 6"")",,2,2024,PM,"14,131,347.00","14,317,439.00",57.67, MA 
+BM20,"Chorreras a San Isidro  II  (6"")  J",,2,2024,AM,"7,006,291.00","7,056,348.00",25.08, MA 
+BM18,"Chorreras a San Isidro I  (6"")    J",,2,2024,AM,"8,201,603.00","8,225,488.00",9.32, MA 
+BM15,"Marin Cañas Chorreras  ( 8"")",,2,2024,AM,"11,710,474.00","11,935,192.00",56.9, MA 
+BM10,"El Higueron 8""  (6"")",,2,2024,AM,"8,367,788.00","8,462,268.00",31.84, MA 
+BM11,"LA Gemela #1 (6"")",,2,2024,AM,"4,204,024.00","4,211,559.00",7.52, MA 
+BM12,"LA Gemela #2  (6"")",,2,2024,AM,"7,882,977.00","7,974,921.00",30.13, MA 
+BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,2,2024,AM,,, Muy bajo nivel , M2 
+SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",,2,2024,AM,"915,891.00","988,383.00",28.76, MA 
+SRM21,"Conducción Flores al Tirol (6"") Llegando",Macromedidor en mal estado,2,2024,,"6,881,869.00",,, M1 
+SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",,2,2024,AM,"2,502,316.00","2,570,874.00",28.09, MA 
+SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",,2,2024,AM,"2,218,349.00","2,280,758.00",28.07, MA 
+SR54,Mata Plátano,,2,2024,AM,"394,081.05","405,700.00",1.61, MA 
+BM25,"Sacramento 3""",,2,2024,AM,"302,112.00","311,618.00",4.8,
